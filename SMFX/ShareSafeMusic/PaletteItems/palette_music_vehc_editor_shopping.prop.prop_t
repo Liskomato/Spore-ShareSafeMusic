@@ -1,0 +1,8 @@
+key parent PaletteItems!ActBGM_parent.prop
+uint32 adventureMusicId  0x08D65DAA
+key modelMeshLOD0 0xAB977819!0x937B42A1.rw4
+key paletteItemPlacedAsset CivicObjects!0xE5855B05.kPlaceableSound
+texts sporepediaName
+	"Vehicle Editor Paint Mode"
+end
+bool sporepediaShow true

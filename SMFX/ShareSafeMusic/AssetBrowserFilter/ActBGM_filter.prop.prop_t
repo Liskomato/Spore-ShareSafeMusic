@@ -1,0 +1,16 @@
+key parent AssetBrowserFilter!0x3D7E305E.prop
+keys browserFilterButtonGraphic
+	AssetBrowserGraphics!0x44089084.png
+	AssetBrowserGraphics!0xDBABA2F5.png
+	AssetBrowserGraphics!0x15AE76C2.png
+	AssetBrowserGraphics!0x18AE7B09.png
+	AssetBrowserGraphics!0x1CDF1A82.png
+	AssetBrowserGraphics!0xDBABA2F5.png
+	AssetBrowserGraphics!0x1CDF1A82.png
+	AssetBrowserGraphics!0x44089084.png
+	AssetBrowserGraphics!0xDBABA2F5.png
+end
+key browserFilterData ActBGM
+texts browserFilterName
+	"Act BGM"
+end

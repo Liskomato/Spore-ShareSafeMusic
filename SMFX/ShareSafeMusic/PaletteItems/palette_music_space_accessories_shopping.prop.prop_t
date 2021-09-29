@@ -1,0 +1,8 @@
+key parent PaletteItems!ActBGM_parent.prop
+uint32 adventureMusicId  0x6354ABA9
+key modelMeshLOD0 0xAB977819!0x937B42A1.rw4
+key paletteItemPlacedAsset CivicObjects!0xE5855B05.kPlaceableSound
+texts sporepediaName
+	"Colony Outfitter Paint Mode"
+end
+bool sporepediaShow true

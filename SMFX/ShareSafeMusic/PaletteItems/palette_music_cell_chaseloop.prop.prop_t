@@ -1,0 +1,12 @@
+key parent PaletteItems!ActBGM_parent.prop
+uint32 adventureMusicId  0x8D357F88
+key modelMeshLOD0 0xAB977819!0x937B42A1.rw4
+key paletteItemPlacedAsset CivicObjects!0xE5855B05.kPlaceableSound
+texts sporepediaName
+	"Prey"
+end
+bool sporepediaShow false
+# This music track of the epic cells chasing you in cell stage 
+# doesn't loop properly, despite its name.
+#
+# This is why I made it not show up in Sporepedia.

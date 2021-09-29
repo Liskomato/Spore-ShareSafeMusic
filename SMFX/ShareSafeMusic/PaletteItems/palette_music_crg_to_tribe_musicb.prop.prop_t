@@ -1,0 +1,11 @@
+key parent PaletteItems!ActBGM_parent.prop
+uint32 adventureMusicId  0xFEAA2BF0
+key modelMeshLOD0 0xAB977819!0x937B42A1.rw4
+key paletteItemPlacedAsset CivicObjects!0xE5855B05.kPlaceableSound
+texts sporepediaName
+	"Ah, Zarathustra!"
+end
+bool sporepediaShow true
+# The in-game version of Also Sprach Zarathustra, part 2.
+# It continues the track as your creature finally gets how to make fire, 
+# and ends when it manifests a chieftain staff out of thin air.

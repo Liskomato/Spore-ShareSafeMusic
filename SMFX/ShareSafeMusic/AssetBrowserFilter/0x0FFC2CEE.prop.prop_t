@@ -1,0 +1,15 @@
+key parent AssetBrowserFilter!0x3D7E305E.prop
+key browserFilterButtonAtlasedIconID 0x41464100!0xBF106BE4
+keys browserFilterChildrenFilters
+	0x14E37D55
+	0x422CB40D
+	0x16C10BFF
+	0x96B21AF3
+	0x59FB17B2
+	0x882BAD3E
+	
+	ActBGM_filter
+end
+texts browserFilterName
+	(0x6F5943EB!0x01021006) "Sound (placeholder)"
+end

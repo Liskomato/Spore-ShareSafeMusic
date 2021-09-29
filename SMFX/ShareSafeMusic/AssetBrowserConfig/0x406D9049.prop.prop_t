@@ -1,0 +1,8 @@
+key parent AssetBrowserConfig!0xAD63F994.prop
+texts sporepediaConfigCallToActionMessage
+	(0x6F5943EB!0x072925bc) "placeholder"
+end
+key sporepediaConfigFeedListID 0xA8519B3D
+key sporepediaConfigRootFilterID filter_ScenarioPalette
+key sporepediaConfigSelectedFeed 0xA8519B3D
+key sporepediaConfigSelectedFilterID filter_ScenarioPalette

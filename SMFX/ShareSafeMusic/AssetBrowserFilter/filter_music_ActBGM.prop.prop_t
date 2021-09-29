@@ -1,0 +1,10 @@
+key browserFilterButtonAtlasedIconID layouts_atlas_2~!button_music_ActBGM
+
+keys browserFilterChildrenFilters
+	0x96B21AF3
+	ActBGM_filter	
+end
+
+texts browserFilterName
+	(0x6F5943EB!0x0102100a) "Music (placeholder)"
+end

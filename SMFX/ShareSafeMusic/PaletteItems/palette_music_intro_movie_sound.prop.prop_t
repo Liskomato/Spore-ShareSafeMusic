@@ -1,0 +1,10 @@
+key parent PaletteItems!ActBGM_parent.prop
+uint32 adventureMusicId  0x60D4CEFC
+key modelMeshLOD0 0xAB977819!0x937B42A1.rw4
+key paletteItemPlacedAsset CivicObjects!0xE5855B05.kPlaceableSound
+texts sporepediaName
+	"Spore Intro"
+end
+bool sporepediaShow false
+# The intro movie track from Core Spore.
+# Because of a bug where the audio will play even when not highlighting its Sporepedia entry, it has been removed from the mod.
