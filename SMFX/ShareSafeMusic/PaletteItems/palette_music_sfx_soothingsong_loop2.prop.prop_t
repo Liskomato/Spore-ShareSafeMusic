@@ -1,7 +1,10 @@
 key parent PaletteItems!ActBGM_parent.prop
-uint32 adventureMusicId  hash(sfx_ufo_soothingsong_lp1)
+
+uint32 adventureMusicId hash(sfx_ufo_soothingsong_lp1)
+
 key modelMeshLOD0 0xAB977819!0x937B42A1.rw4
 key paletteItemPlacedAsset CivicObjects!0xE5855B05.kPlaceableSound
+
 texts sporepediaName
 	"Soothing Song 2"
 end

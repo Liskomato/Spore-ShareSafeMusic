@@ -2,7 +2,8 @@ key browserFilterButtonAtlasedIconID layouts_atlas_2~!button_music_ActBGM
 
 keys browserFilterChildrenFilters
 	0x96B21AF3
-	ActBGM_filter	
+	ActBGM_filter
+	#ActBGM_filter_Test
 end
 
 texts browserFilterName

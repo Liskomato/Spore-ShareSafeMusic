@@ -1,9 +1,13 @@
 key parent PaletteItems!ActBGM_parent.prop
-uint32 adventureMusicId  0xF0BAF70F
+
+uint32 adventureMusicId hash(music_cell_beach_end)
+
 key modelMeshLOD0 0xAB977819!0x937B42A1.rw4
 key paletteItemPlacedAsset CivicObjects!0xE5855B05.kPlaceableSound
+
 texts sporepediaName
 	"Sting - Landfall"
 end
 bool sporepediaShow true
+
 # The Creature Stage intro music

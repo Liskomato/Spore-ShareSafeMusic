@@ -1,9 +1,13 @@
 key parent PaletteItems!ActBGM_parent.prop
-uint32 adventureMusicId  0x05C22D9A
+
+uint32 adventureMusicId hash(music_cell_cymbal)
+
 key modelMeshLOD0 0xAB977819!0x937B42A1.rw4
 key paletteItemPlacedAsset CivicObjects!0xE5855B05.kPlaceableSound
+
 texts sporepediaName
 	"Sting - Cell Cymbal"
 end
 bool sporepediaShow true
+
 # Presumably the audio effect for when your cell swims away at the end of Cell Stage.

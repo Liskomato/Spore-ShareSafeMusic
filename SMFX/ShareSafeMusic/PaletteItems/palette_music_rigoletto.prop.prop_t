@@ -1,11 +1,15 @@
 key parent PaletteItems!ActBGM_parent.prop
-uint32 adventureMusicId  0x5492AC69
+
+uint32 adventureMusicId 0x5492AC69
+
 key modelMeshLOD0 0xAB977819!0x937B42A1.rw4
 key paletteItemPlacedAsset CivicObjects!0xE5855B05.kPlaceableSound
+
 texts sporepediaName
 	"Rigoletto"
 end
 bool sporepediaShow true
+
 # One of the unused tracks for Galactic Adventures. 
 # The track is the most iconic piece of the Rigoletto opera by Giuseppe Verdi, "La donna è mobile".
 # The opera itself was premiered first in 11th March 1851. Quite a long time ago, indeed!

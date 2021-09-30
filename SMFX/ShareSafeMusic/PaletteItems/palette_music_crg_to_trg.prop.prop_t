@@ -1,11 +1,15 @@
 key parent PaletteItems!ActBGM_parent.prop
-uint32 adventureMusicId  0x492A33EF
+
+uint32 adventureMusicId hash(music_crg_to_trg)
+
 key modelMeshLOD0 0xAB977819!0x937B42A1.rw4
 key paletteItemPlacedAsset CivicObjects!0xE5855B05.kPlaceableSound
+
 texts sporepediaName
 	"Also Sprach Zarathustra"
 end
 bool sporepediaShow true
+
 # The complete version of Also Sprach Zarathustra by Richard Strauss. 
 # Not used in-game, instead check for crg_to_tribe_musica and crg_to_tribe_musicb
 # for the in-game version.

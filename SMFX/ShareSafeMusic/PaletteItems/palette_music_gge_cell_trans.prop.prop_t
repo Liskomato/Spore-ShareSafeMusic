@@ -1,7 +1,10 @@
 key parent PaletteItems!ActBGM_parent.prop
-uint32 adventureMusicId  0x081032C8
+
+uint32 adventureMusicId hash(music_gge_cell_trans)
+
 key modelMeshLOD0 0xAB977819!0x937B42A1.rw4
 key paletteItemPlacedAsset CivicObjects!0xE5855B05.kPlaceableSound
+
 texts sporepediaName
 	"The Planet is About To Be Rocked! (Cell Stage Intro)"
 end

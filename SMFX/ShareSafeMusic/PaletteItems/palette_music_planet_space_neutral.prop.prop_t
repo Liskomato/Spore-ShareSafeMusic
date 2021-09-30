@@ -1,9 +1,13 @@
 key parent PaletteItems!ActBGM_parent.prop
-uint32 adventureMusicId  0xB98A80EC
+
+uint32 adventureMusicId hash(music_planet_space_neutral)
+
 key modelMeshLOD0 0xAB977819!0x937B42A1.rw4
 key paletteItemPlacedAsset CivicObjects!0xE5855B05.kPlaceableSound
+
 texts sporepediaName
 	"Neutral Ambience"
 end
 bool sporepediaShow true
+
 # An unused track from Space Stage. SporeUGS calls it "Neutral Ambience" on YouTube.

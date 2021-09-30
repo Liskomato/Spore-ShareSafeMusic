@@ -1,7 +1,10 @@
 key parent PaletteItems!ActBGM_parent.prop
-uint32 adventureMusicId  0xEF571B41
+
+uint32 adventureMusicId hash(alien_melancholy)
+
 key modelMeshLOD0 0xAB977819!0x937B42A1.rw4
 key paletteItemPlacedAsset CivicObjects!0xE5855B05.kPlaceableSound
+
 texts sporepediaName
 	"Alien - Melancholy / Reminiscence"
 end

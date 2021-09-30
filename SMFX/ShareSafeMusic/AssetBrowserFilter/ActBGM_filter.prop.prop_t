@@ -12,5 +12,5 @@ keys browserFilterButtonGraphic
 end
 key browserFilterData ActBGM
 texts browserFilterName
-	"Act BGM"
+	(ShareSafeMusic_Filters!0x0) "Act BGM"
 end
