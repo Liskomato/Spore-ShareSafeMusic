@@ -6,6 +6,7 @@ key modelMeshLOD0 0xAB977819!0x937B42A1.rw4
 key paletteItemPlacedAsset CivicObjects!0xE5855B05.kPlaceableSound
 
 texts sporepediaName
-	(ShareSafeMusic_Props!0x000000bd) "Spaceship Editor Edit Mode"
+	(ShareSafeMusic_Props!0xbd) "Spaceship Editor Edit Mode"
 end
+key sporepediaBackdropImage AssetBrowserGraphics!Backdrop_UFO.png
 bool sporepediaShow true

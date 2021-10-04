@@ -6,6 +6,6 @@ key modelMeshLOD0 0xAB977819!0x937B42A1.rw4
 key paletteItemPlacedAsset CivicObjects!0xE5855B05.kPlaceableSound
 
 texts sporepediaName
-	(ShareSafeMusic_Props!0x000000ac) "Sting - New Colony"
+	(ShareSafeMusic_Props!0xac) "Sting - New Colony"
 end
 bool sporepediaShow true

@@ -8,4 +8,5 @@ key paletteItemPlacedAsset CivicObjects!0xE5855B05.kPlaceableSound
 texts sporepediaName
 	(ShareSafeMusic_Props!0x2) "Alien - Bloop Bleep / Transmission"
 end
+key sporepediaBackdropImage Merged_Assets!Backdrop_CityMusic_Space.png
 bool sporepediaShow true

@@ -8,4 +8,5 @@ key paletteItemPlacedAsset CivicObjects!0xE5855B05.kPlaceableSound
 texts sporepediaName
 	(ShareSafeMusic_Props!0x1) "Alien - Concentration"
 end
+key sporepediaBackdropImage Merged_Assets!Backdrop_CityMusic_Space.png
 bool sporepediaShow true

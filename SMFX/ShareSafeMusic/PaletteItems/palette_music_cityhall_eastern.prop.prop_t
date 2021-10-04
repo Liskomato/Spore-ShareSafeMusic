@@ -6,6 +6,9 @@ key modelMeshLOD0 0xAB977819!0x937B42A1.rw4
 key paletteItemPlacedAsset CivicObjects!0xE5855B05.kPlaceableSound
 
 texts sporepediaName
-	(ShareSafeMusic_Props!0x0000004b) "City - Eastern / Chant of the Zealot"
+	(ShareSafeMusic_Props!0x4b) "City - Eastern / Chant of the Zealot"
 end
+key sporepediaBackdropImage Merged_Assets!Backdrop_CityMusic_Civ.png
 bool sporepediaShow true
+
+# Religious city anthem.
