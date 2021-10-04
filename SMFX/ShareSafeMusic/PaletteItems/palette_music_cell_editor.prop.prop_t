@@ -6,7 +6,7 @@ key modelMeshLOD0 0xAB977819!0x937B42A1.rw4
 key paletteItemPlacedAsset CivicObjects!0xE5855B05.kPlaceableSound
 
 texts sporepediaName
-	"Cell Editor Edit Mode"
+	(ShareSafeMusic_Props!0x0000001f) "Cell Editor Edit Mode"
 end
 bool sporepediaShow true
 

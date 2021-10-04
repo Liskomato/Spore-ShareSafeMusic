@@ -6,6 +6,6 @@ key modelMeshLOD0 0xAB977819!0x937B42A1.rw4
 key paletteItemPlacedAsset CivicObjects!0xE5855B05.kPlaceableSound
 
 texts sporepediaName
-	"Cell Stage 07"
+	(ShareSafeMusic_Props!0x00000026) "Cell Stage 07"
 end
 bool sporepediaShow true

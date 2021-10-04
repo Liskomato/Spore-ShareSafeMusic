@@ -6,7 +6,7 @@ key modelMeshLOD0 0xAB977819!0x937B42A1.rw4
 key paletteItemPlacedAsset CivicObjects!0xE5855B05.kPlaceableSound
 
 texts sporepediaName
-	"Road to Sentience"
+	(ShareSafeMusic_Props!0x0000001c) "Road to Sentience"
 end
 bool sporepediaShow true
 

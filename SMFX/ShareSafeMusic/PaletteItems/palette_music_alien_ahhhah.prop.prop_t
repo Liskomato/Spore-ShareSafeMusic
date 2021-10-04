@@ -6,6 +6,6 @@ key modelMeshLOD0 0xAB977819!0x937B42A1.rw4
 key paletteItemPlacedAsset CivicObjects!0xE5855B05.kPlaceableSound
 
 texts sporepediaName
-	"Alien - Ahh-hah / Remorse"
+	(ShareSafeMusic_Props!0x0)  "Alien - Ahh-hah / Remorse"
 end
 bool sporepediaShow true
