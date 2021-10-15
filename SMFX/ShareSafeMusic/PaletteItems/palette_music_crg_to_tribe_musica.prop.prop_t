@@ -1,4 +1,5 @@
-key parent PaletteItems!ActBGM_parent.prop
+key parent PaletteItems!ActBGM_Cinematics_parent.prop
+string16 description " BONK "
 
 uint32 adventureMusicId hash(crg_to_tribe_musica)
 
@@ -8,6 +9,7 @@ key paletteItemPlacedAsset CivicObjects!0xE5855B05.kPlaceableSound
 texts sporepediaName
 	(ShareSafeMusic_Props!0x60) "Also Sprach, Uh..."
 end
+key sporepediaBackdropImage AssetBrowserGraphics!Backdrop_UFO.png
 bool sporepediaShow true
 
 # The in-game version of Also Sprach Zarathustra, part 1.

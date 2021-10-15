@@ -1,4 +1,4 @@
-key parent PaletteItems!ActBGM_parent.prop
+key parent PaletteItems!ActBGM_Unused_parent.prop
 
 uint32 adventureMusicId 0xFDD2DC7C
 

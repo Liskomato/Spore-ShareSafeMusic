@@ -1,4 +1,4 @@
-key parent PaletteItems!ActBGM_parent.prop
+key parent PaletteItems!ActBGM_CityMusic_SPG_parent.prop
 
 uint32 adventureMusicId hash(alien_music_proposal_three)
 
@@ -10,3 +10,5 @@ texts sporepediaName
 end
 key sporepediaBackdropImage Merged_Assets!Backdrop_CityMusic_GroB.png
 bool sporepediaShow true
+
+# Grox anthem.

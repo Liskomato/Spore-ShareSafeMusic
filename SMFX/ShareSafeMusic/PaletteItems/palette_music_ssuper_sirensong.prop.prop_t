@@ -1,4 +1,4 @@
-key parent PaletteItems!ActBGM_parent.prop
+key parent PaletteItems!ActBGM_Oneshot_parent.prop
 
 uint32 adventureMusicId hash(ssuper_sirensong)
 

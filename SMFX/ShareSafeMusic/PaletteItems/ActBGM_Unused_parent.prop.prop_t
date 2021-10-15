@@ -1,0 +1,5 @@
+key parent PaletteItems!ActBGM_parent.prop
+
+key sporepediaAssetType ActBGM_Unused
+
+# There are three unused tracks in EP1: Aspiring Heroes, Downtown Mayhem and Rigoletto.

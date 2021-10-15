@@ -1,4 +1,4 @@
-key parent PaletteItems!ActBGM_parent.prop
+key parent PaletteItems!ActBGM_CityMusic_CVG_Religious_parent.prop
 
 uint32 adventureMusicId hash(cityhall_neighbor1)
 
@@ -8,7 +8,6 @@ key paletteItemPlacedAsset CivicObjects!0xE5855B05.kPlaceableSound
 texts sporepediaName
 	(ShareSafeMusic_Props!0x4e) "City - Neighbor"
 end
-key sporepediaBackdropImage Merged_Assets!Backdrop_CityMusic_Civ.png
-bool sporepediaShow true
+bool sporepediaShow false
 
 # Religious city anthem.

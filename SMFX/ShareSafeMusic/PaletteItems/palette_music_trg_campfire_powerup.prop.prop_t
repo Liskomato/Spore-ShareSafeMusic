@@ -8,4 +8,5 @@ key paletteItemPlacedAsset CivicObjects!0xE5855B05.kPlaceableSound
 texts sporepediaName
 	(ShareSafeMusic_Props!0xb5) "Tribal Campfire Dance"
 end
+key sporepediaBackdropImage AssetBrowserGraphics!ShareSafeMusic-Backdrop_TRG_CampfireDance.png
 bool sporepediaShow true

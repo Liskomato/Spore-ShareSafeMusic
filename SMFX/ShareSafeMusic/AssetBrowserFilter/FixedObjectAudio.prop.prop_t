@@ -1,0 +1,19 @@
+key parent AssetBrowserFilter!FixedObjectTemplate.prop
+
+key browserFilterButtonAtlasedIconID 0x41464100!AdventureFilterButtons
+
+keys browserFilterChildrenFilters
+	FixedObjectAudioCrowd
+	FixedObjectAudioEnvironment
+	FixedObjectAudioMechanical
+	FixedObjectAudioMusic
+	FixedObjectAudioNote
+	FixedObjectAudioOneshot
+	
+	ActBGM_filter
+	#ActBGM_filter_Test
+end
+
+texts browserFilterName
+	(sporepediaEP1!0x01021006) "Sound (placeholder)"
+end

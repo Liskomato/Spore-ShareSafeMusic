@@ -1,4 +1,4 @@
-key parent PaletteItems!ActBGM_parent.prop
+key parent PaletteItems!palette_music_cell_loop_parent.prop
 
 uint32 adventureMusicId hash(cellgame_seed_music6)
 
@@ -8,5 +8,4 @@ key paletteItemPlacedAsset CivicObjects!0xE5855B05.kPlaceableSound
 texts sporepediaName
 	(ShareSafeMusic_Props!0x2b) "Cell Stage 01"
 end
-key sporepediaBackdropImage AssetBrowserGraphics!ShareSafeMusic-Backdrop_CLG.png
 bool sporepediaShow true

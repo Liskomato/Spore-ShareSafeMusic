@@ -1,16 +1,25 @@
-key parent AssetBrowserFilter!0x3D7E305E.prop
+key parent AssetBrowserFilter!FixedObjectTemplate.prop
+
 keys browserFilterButtonGraphic
-	AssetBrowserGraphics!0x44089084.png
-	AssetBrowserGraphics!0xDBABA2F5.png
-	AssetBrowserGraphics!0x15AE76C2.png
-	AssetBrowserGraphics!0x18AE7B09.png
-	AssetBrowserGraphics!0x1CDF1A82.png
-	AssetBrowserGraphics!0xDBABA2F5.png
-	AssetBrowserGraphics!0x1CDF1A82.png
-	AssetBrowserGraphics!0x44089084.png
-	AssetBrowserGraphics!0xDBABA2F5.png
+	AssetBrowserGraphics!0x44089084.png # Normal
+	AssetBrowserGraphics!0xDBABA2F5.png # Disabled
+	AssetBrowserGraphics!0x15AE76C2.png # Highlighted
+	AssetBrowserGraphics!0x18AE7B09.png # Act
+	AssetBrowserGraphics!0x1CDF1A82.png # On Normal
+	AssetBrowserGraphics!0xDBABA2F5.png # Disabled
+	AssetBrowserGraphics!0x1CDF1A82.png # On Highlighted
+	AssetBrowserGraphics!0x44089084.png # On Act
+	AssetBrowserGraphics!0xDBABA2F5.png # Disabled
 end
+
 key browserFilterData ActBGM
+
 texts browserFilterName
 	(ShareSafeMusic_Filters!0x0) "Act BGM"
+end
+
+keys browserFilterChildrenFilters
+	ActBGM_Unused
+	ActBGM_CityMusic_filter
+	ActBGM_Oneshot_filter
 end

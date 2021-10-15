@@ -1,4 +1,4 @@
-key parent PaletteItems!ActBGM_parent.prop
+key parent PaletteItems!ActBGM_Cinematics_parent.prop
 
 uint32 adventureMusicId hash(crg_to_tribe_musicb)
 
@@ -8,6 +8,7 @@ key paletteItemPlacedAsset CivicObjects!0xE5855B05.kPlaceableSound
 texts sporepediaName
 	(ShareSafeMusic_Props!0x61) "Ah, Zarathustra!"
 end
+key sporepediaBackdropImage AssetBrowserGraphics!ShareSafeMusic-Backdrop_CRG2TRG.png
 bool sporepediaShow true
 
 # The in-game version of Also Sprach Zarathustra, part 2.

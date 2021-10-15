@@ -1,0 +1,23 @@
+key parent AssetBrowserFilter!FixedObjectTemplate.prop
+
+keys browserFilterButtonGraphic
+	AssetBrowserGraphics!0x753976EF.png # Normal
+	AssetBrowserGraphics!0x753976EE.png # Disabled
+	AssetBrowserGraphics!0x753976EC.png # Highlighted
+	AssetBrowserGraphics!0x753976EF.png # Act
+	AssetBrowserGraphics!0x753976ED.png # On Normal
+	AssetBrowserGraphics!0x753976EE.png # Disabled
+	AssetBrowserGraphics!0x753976EA.png # On Highlighted
+	AssetBrowserGraphics!0x753976ED.png # On Act
+	AssetBrowserGraphics!0x753976EE.png # Disabled
+end
+
+key browserFilterData ActBGM_Oneshot
+
+texts browserFilterName
+	(ShareSafeMusic_Filters!ActBGM_Oneshot) "Act BGM - Oneshot"
+end
+
+keys browserFilterChildrenFilters
+	ActBGM_Cinematics_filter
+end

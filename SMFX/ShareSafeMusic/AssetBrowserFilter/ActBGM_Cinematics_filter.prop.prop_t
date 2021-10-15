@@ -1,0 +1,9 @@
+key parent AssetBrowserFilter!FixedObjectTemplate.prop
+
+key browserFilterButtonAtlasedIconID layouts_atlas_2~!button_music_ActBGM_Cinematics
+
+key browserFilterData ActBGM_Cinematics
+
+texts browserFilterName
+	(ShareSafeMusic_Filters!ActBGM_Cinematics) "Act BGM - Cinematics"
+end

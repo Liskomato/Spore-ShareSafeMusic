@@ -1,2 +1,26 @@
 0x00000000 Jakoturvallinen musiikki
 0x00000001 Näytöstaustamusiikki
+
+# ActBGM_CityMusic
+0x2D97684C Tunnusmusiikit
+
+# ActBGM_CityMusic_CVG
+0xE780CFD7 Kaupungin tunnusmusiikit
+
+# ActBGM_CityMusic_CVG_Military
+0xC65D2E37 Sotilaallinen musiikki
+
+# ActBGM_CityMusic_CVG_Economic
+0xAAB905C9 Taloudellinen musiikki
+
+# ActBGM_CityMusic_CVG_Religious
+0x18905463 Uskonnollinen musiikki
+
+# ActBGM_CityMusic_SPG
+0xEDA97BF5 Avaruusolioiden tunnusmusiikit
+
+# ActBGM_Oneshot
+0x16A0E096 Yksittäiset
+
+# ActBGM_Cinematics
+0xFAE13A84 Elokuvat

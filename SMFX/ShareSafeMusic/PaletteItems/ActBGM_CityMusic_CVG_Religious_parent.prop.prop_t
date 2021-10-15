@@ -1,0 +1,5 @@
+key parent PaletteItems!ActBGM_CityMusic_CVG_parent.prop
+
+key sporepediaAssetType ActBGM_CityMusic_CVG_Religious
+
+# For religious countries anthems on the Civilisation Stage.

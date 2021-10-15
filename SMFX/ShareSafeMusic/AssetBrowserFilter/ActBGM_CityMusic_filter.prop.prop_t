@@ -1,0 +1,22 @@
+key parent AssetBrowserFilter!FixedObjectTemplate.prop
+
+keys browserFilterButtonGraphic
+	AssetBrowserGraphics!0x9D05E9D3.png # Normal
+	AssetBrowserGraphics!0x9D05E9D2.png # Disabled
+	AssetBrowserGraphics!0x9D05E9D0.png # Highlighted
+	AssetBrowserGraphics!0x9D05E9D1.png # Act
+	AssetBrowserGraphics!0x9D05E9D6.png # On Normal
+	AssetBrowserGraphics!0x9D05E9D2.png # Disabled
+	AssetBrowserGraphics!0x9D05E9D7.png # On Highlighted
+	AssetBrowserGraphics!0x9D05E9D4.png # On Act
+	AssetBrowserGraphics!0x9D05E9D2.png # Disabled
+end
+
+texts browserFilterName
+	(ShareSafeMusic_Filters!ActBGM_CityMusic) "Act BGM - Anthems"
+end
+
+keys browserFilterChildrenFilters
+	ActBGM_CityMusic_CVG_filter
+	ActBGM_CityMusic_SPG_filter
+end

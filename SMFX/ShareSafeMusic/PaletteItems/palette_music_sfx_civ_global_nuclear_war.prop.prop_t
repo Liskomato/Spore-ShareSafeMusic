@@ -1,4 +1,4 @@
-key parent PaletteItems!ActBGM_parent.prop
+key parent PaletteItems!ActBGM_Oneshot_parent.prop
 
 uint32 adventureMusicId hash(sfx_civ_global_nuclear_war)
 
@@ -8,4 +8,5 @@ key paletteItemPlacedAsset CivicObjects!0xE5855B05.kPlaceableSound
 texts sporepediaName
 	(ShareSafeMusic_Props!0x80) "Sting - ICBM"
 end
+key sporepediaBackdropImage AssetBrowserGraphics!ShareSafeMusic-Backdrop_CVG_ICBM.png
 bool sporepediaShow true

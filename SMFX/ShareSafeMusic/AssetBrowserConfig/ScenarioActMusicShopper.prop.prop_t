@@ -1,0 +1,8 @@
+key parent AssetBrowserConfig!0xAD63F994.prop
+texts sporepediaConfigCallToActionMessage
+	(sporepediaEP1!0x072925b4) "placeholder"
+end
+key sporepediaConfigFeedListID ScenarioFixedObjects
+key sporepediaConfigRootFilterID filter_music_ActBGM
+key sporepediaConfigSelectedFeed ScenarioFixedObjects
+key sporepediaConfigSelectedFilterID FixedObjectAudioMusic

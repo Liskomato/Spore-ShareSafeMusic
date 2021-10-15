@@ -1,4 +1,4 @@
-key parent PaletteItems!ActBGM_parent.prop
+key parent PaletteItems!ActBGM_Cinematics_parent.prop
 
 uint32 adventureMusicId hash(music_crg_claimnest)
 
@@ -8,6 +8,7 @@ key paletteItemPlacedAsset CivicObjects!0xE5855B05.kPlaceableSound
 texts sporepediaName
 	(ShareSafeMusic_Props!0x5d) "Sting - Claiming Nest"
 end
+key sporepediaBackdropImage AssetBrowserGraphics!ShareSafeMusic-Backdrop_CRG_ClaimNest.png
 bool sporepediaShow true
 
 # This track plays in the creature stage as you arrive to your new nest after migration.

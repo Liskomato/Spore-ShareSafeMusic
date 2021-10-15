@@ -1,4 +1,4 @@
-key parent PaletteItems!ActBGM_parent.prop
+key parent PaletteItems!ActBGM_Cinematics_parent.prop
 
 uint32 adventureMusicId hash(music_trg_to_civ_start)
 

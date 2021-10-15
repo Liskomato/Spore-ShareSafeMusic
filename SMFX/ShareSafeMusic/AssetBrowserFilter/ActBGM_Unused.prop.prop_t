@@ -1,0 +1,19 @@
+key parent AssetBrowserFilter!FixedObjectTemplate.prop
+
+keys browserFilterButtonGraphic
+	AssetBrowserGraphics!0xE2C3FF22.png # Normal
+	AssetBrowserGraphics!0xE2C3FF23.png # Disabled
+	AssetBrowserGraphics!0xE2C3FF21.png # Highlighted
+	AssetBrowserGraphics!0xE2C3FF22.png # Act
+	AssetBrowserGraphics!0xE2C3FF20.png # On Normal
+	AssetBrowserGraphics!0xE2C3FF23.png # Disabled
+	AssetBrowserGraphics!0xE2C3FF27.png # On Highlighted
+	AssetBrowserGraphics!0xE2C3FF20.png # On Act
+	AssetBrowserGraphics!0xE2C3FF23.png # Disabled
+end
+
+key browserFilterData ActBGM_Unused
+
+texts browserFilterName
+	(sporepediaEP1!0x0102100a) "Act BGM - Unused"
+end

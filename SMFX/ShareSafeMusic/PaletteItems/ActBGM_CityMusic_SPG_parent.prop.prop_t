@@ -1,0 +1,7 @@
+key parent PaletteItems!ActBGM_parent.prop
+
+key sporepediaAssetType ActBGM_CityMusic_SPG
+
+key sporepediaBackdropImage Merged_Assets!Backdrop_CityMusic_Space.png
+
+# For alien anthems on the Space Stage.

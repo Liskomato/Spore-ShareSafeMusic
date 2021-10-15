@@ -1,0 +1,5 @@
+key parent PaletteItems!ActBGM.prop
+
+key sporepediaBackdropImage Merged_Assets!Backdrop_CityMusic_Civ.png
+
+# For anthems on the Civilisation Stage.

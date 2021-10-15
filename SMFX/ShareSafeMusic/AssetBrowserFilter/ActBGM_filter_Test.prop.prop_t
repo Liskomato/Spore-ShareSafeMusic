@@ -1,5 +1,7 @@
-key parent AssetBrowserFilter!0x3D7E305E.prop
+key parent AssetBrowserFilter!FixedObjectTemplate.prop
+
 key browserFilterData ActBGM_Test
+
 texts browserFilterName
 	"Test"
 end

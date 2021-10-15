@@ -1,0 +1,19 @@
+key parent AssetBrowserFilter!FixedObjectTemplate.prop
+
+keys browserFilterButtonGraphic
+	AssetBrowserGraphics!0xF9FE0CE5.png # Normal
+	AssetBrowserGraphics!0xF9FE0CE4.png # Disabled
+	AssetBrowserGraphics!0xF9FE0CE6.png # Highlighted
+	AssetBrowserGraphics!0xF9FE0CE7.png # Act
+	AssetBrowserGraphics!0xF9FE0CE0.png # On Normal
+	AssetBrowserGraphics!0xF9FE0CE4.png # Disabled
+	AssetBrowserGraphics!0xF9FE0CE1.png # On Highlighted
+	AssetBrowserGraphics!0xF9FE0CE2.png # On Act
+	AssetBrowserGraphics!0xF9FE0CE4.png # Disabled
+end
+
+key browserFilterData ActBGM_CityMusic_CVG_Religious
+
+texts browserFilterName
+	(ShareSafeMusic_Filters!ActBGM_CityMusic_CVG_Religious) "Act BGM - Religious Anthems"
+end

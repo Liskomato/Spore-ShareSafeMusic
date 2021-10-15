@@ -1,0 +1,23 @@
+key parent AssetBrowserFilter!FixedObjectTemplate.prop
+
+keys browserFilterButtonGraphic
+	AssetBrowserGraphics!0x7D070D6D.png # Normal
+	AssetBrowserGraphics!0x7D070D6C.png # Disabled
+	AssetBrowserGraphics!0x7D070D6E.png # Highlighted
+	AssetBrowserGraphics!0x7D070D6F.png # Act
+	AssetBrowserGraphics!0x7D070D68.png # On Normal
+	AssetBrowserGraphics!0x7D070D6C.png # Disabled
+	AssetBrowserGraphics!0x7D070D69.png # On Highlighted
+	AssetBrowserGraphics!0x7D070D6A.png # On Act
+	AssetBrowserGraphics!0x7D070D6C.png # Disabled
+end
+
+texts browserFilterName
+	(ShareSafeMusic_Filters!ActBGM_CityMusic_CVG) "Act BGM - Civ Anthems"
+end
+
+keys browserFilterChildrenFilters
+	ActBGM_CityMusic_CVG_Military_filter
+	ActBGM_CityMusic_CVG_Economic_filter
+	ActBGM_CityMusic_CVG_Religious_filter
+end

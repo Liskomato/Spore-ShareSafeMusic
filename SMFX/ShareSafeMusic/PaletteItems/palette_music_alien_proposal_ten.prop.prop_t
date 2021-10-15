@@ -1,4 +1,4 @@
-key parent PaletteItems!ActBGM_parent.prop
+key parent PaletteItems!ActBGM_CityMusic_SPG_parent.prop
 
 uint32 adventureMusicId hash(alien_music_proposal_ten)
 
@@ -8,5 +8,4 @@ key paletteItemPlacedAsset CivicObjects!0xE5855B05.kPlaceableSound
 texts sporepediaName
 	(ShareSafeMusic_Props!0xc) "Alien - Patience"
 end
-key sporepediaBackdropImage Merged_Assets!Backdrop_CityMusic_Space.png
 bool sporepediaShow true

@@ -1,4 +1,4 @@
-key parent PaletteItems!ActBGM_parent.prop
+key parent PaletteItems!palette_music_civ_recruit_parent.prop
 
 uint32 adventureMusicId hash(music_civ_recruita)
 

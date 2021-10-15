@@ -1,0 +1,19 @@
+key parent AssetBrowserFilter!FixedObjectTemplate.prop
+
+keys browserFilterButtonGraphic
+	AssetBrowserGraphics!0x1EDDF989.png # Normal
+	AssetBrowserGraphics!0x1EDDF988.png # Disabled
+	AssetBrowserGraphics!0x1EDDF98A.png # Highlighted
+	AssetBrowserGraphics!0x1EDDF98B.png # Act
+	AssetBrowserGraphics!0x1EDDF98C.png # On Normal
+	AssetBrowserGraphics!0x1EDDF988.png # Disabled
+	AssetBrowserGraphics!0x1EDDF98D.png # On Highlighted
+	AssetBrowserGraphics!0x1EDDF98E.png # On Act
+	AssetBrowserGraphics!0x1EDDF988.png # Disabled
+end
+
+key browserFilterData ActBGM_CityMusic_SPG
+
+texts browserFilterName
+	(ShareSafeMusic_Filters!ActBGM_CityMusic_SPG) "Act BGM - Alien Anthems"
+end
