@@ -1,4 +1,4 @@
-key parent AssetBrowserFilter!FixedObjectTemplate.prop
+key parent AssetBrowserFilter!ActBGM_filter_Template.prop
 
 key browserFilterData ActBGM_Test
 

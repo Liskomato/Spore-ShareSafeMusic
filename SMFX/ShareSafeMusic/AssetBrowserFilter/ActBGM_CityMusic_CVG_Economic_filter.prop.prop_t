@@ -1,16 +1,19 @@
-key parent AssetBrowserFilter!FixedObjectTemplate.prop
+key parent AssetBrowserFilter!ActBGM_filter_Template.prop
 
-keys browserFilterButtonGraphic
-	AssetBrowserGraphics!0x45CB6FC0.png # Normal
-	AssetBrowserGraphics!0x45CB6FC1.png # Disabled
-	AssetBrowserGraphics!0x45CB6FC3.png # Highlighted
-	AssetBrowserGraphics!0x45CB6FC2.png # Act
-	AssetBrowserGraphics!0x45CB6FC5.png # On Normal
-	AssetBrowserGraphics!0x45CB6FC1.png # Disabled
-	AssetBrowserGraphics!0x45CB6FC4.png # On Highlighted
-	AssetBrowserGraphics!0x45CB6FC7.png # On Act
-	AssetBrowserGraphics!0x45CB6FC1.png # Disabled
-end
+key browserFilterButtonAtlasedIconID 0xFFFFFFFF.EconomicLand
+key image TMP!ActBGM_CityMusic_CVG_Economic_filter.png #FOR DEVELOPMENT ONLY! Needs to be removed before releasing the mod.
+
+#keys browserFilterButtonGraphic
+#	AssetBrowserGraphics!0x45CB6FC0.png # Normal
+#	AssetBrowserGraphics!0x45CB6FC1.png # Disabled
+#	AssetBrowserGraphics!0x45CB6FC3.png # Highlighted
+#	AssetBrowserGraphics!0x45CB6FC2.png # Act
+#	AssetBrowserGraphics!0x45CB6FC5.png # On Normal
+#	AssetBrowserGraphics!0x45CB6FC1.png # Disabled
+#	AssetBrowserGraphics!0x45CB6FC4.png # On Highlighted
+#	AssetBrowserGraphics!0x45CB6FC7.png # On Act
+#	AssetBrowserGraphics!0x45CB6FC1.png # Disabled
+#end
 
 key browserFilterData ActBGM_CityMusic_CVG_Economic
 

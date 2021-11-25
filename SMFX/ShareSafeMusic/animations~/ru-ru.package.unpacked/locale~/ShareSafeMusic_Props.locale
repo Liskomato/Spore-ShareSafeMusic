@@ -21,7 +21,7 @@
 0x00000014 Alien - Underworld / Unstable
 0x00000015 Alien - Whipper / Focus
 0x00000016 Героический марш
-0x00000017 Sting - Brain Upgrade
+0x00000017 Рост мозга
 0x00000018 Underwater Ambience 2
 0x00000019 Underwater Ambience 1
 0x0000001a Underwater Ambience 4
@@ -99,7 +99,7 @@
 0x00000062 Уличный погром
 0x00000063 Снаряжение капитана
 0x00000064 Редактор приключений
-0x00000065 GA Intro
+0x00000065 Интро Spore: Космические приключения
 0x00000066 Galactic Ambience
 0x00000067 A Universe In Your Hands
 0x00000068 Your Own Personal Universe (Galaxy Menu)
@@ -108,7 +108,7 @@
 0x0000006b Редактор комбайнов
 0x0000006c Chimes of Healing
 0x0000006d Drifting Weightlessly (Interstellar Space)
-0x0000006e Spore Intro
+0x0000006e Интро Spore
 0x0000006f Loadtering 1
 0x00000070 Loadtering 2
 0x00000071 Sting - Mating 6
@@ -126,7 +126,7 @@
 0x0000007d Sting - Out of the Dirt (Civilization Intro)
 0x0000007e Dervish
 0x0000007f Sting - Global Market
-0x00000080 Sting - ICBM
+0x00000080 МБР
 0x00000081 Sting - All Cities Lost
 0x00000082 Sting - Messianic Rising
 0x00000083 Gadget Bomb Preparation 1
@@ -162,7 +162,7 @@
 0x000000a1 Космическое снаряжение - Конструктор
 0x000000a2 Космическое снаряжение - Окрашивание
 0x000000a3 Event Horizon
-0x000000a4 Black Hole
+0x000000a4 Черная дыра
 0x000000a5 Galactic Warfare End
 0x000000a6 Galactic Warfare Gong 2
 0x000000a7 Galactic Warfare Gong 3
@@ -203,6 +203,6 @@
 0x000000ca Galactic Warfare Gong 1
 0x000000cb Редактор построек - Конструктор
 0x000000cc Редактор построек - Окрашивание
-0x000000cd 
+0x000000cd Песнь гармонии
 0x000000ce 
 0x000000cf 

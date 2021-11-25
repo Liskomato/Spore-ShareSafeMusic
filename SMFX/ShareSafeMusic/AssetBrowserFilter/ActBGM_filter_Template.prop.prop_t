@@ -1,0 +1,2 @@
+key parent AssetBrowserFilter!FixedObjectTemplate.prop
+bool browserAllowSortByType false

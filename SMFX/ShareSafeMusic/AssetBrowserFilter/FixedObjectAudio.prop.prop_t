@@ -1,6 +1,9 @@
+# Spore: Galactic Adventures file
+
 key parent AssetBrowserFilter!FixedObjectTemplate.prop
 
 key browserFilterButtonAtlasedIconID 0x41464100!AdventureFilterButtons
+key image TMP!filter.png #FOR DEVELOPMENT ONLY! Needs to be removed before releasing the mod.
 
 keys browserFilterChildrenFilters
 	FixedObjectAudioCrowd

@@ -1,6 +1,8 @@
 key parent AssetBrowserFilter!FixedObjectTemplate.prop
 
-key browserFilterButtonAtlasedIconID layouts_atlas_2~!button_ScenarioPalette
+key browserFilterButtonAtlasedIconID 0xFFFFFFFF.FixedObjectAudio
+key image TMP!filter.png #FOR DEVELOPMENT ONLY! Needs to be removed before releasing the mod.
+#key browserFilterButtonAtlasedIconID layouts_atlas_2~!button_ScenarioPalette
 
 keys browserFilterChildrenFilters
 	FixedObjectAudioCrowd

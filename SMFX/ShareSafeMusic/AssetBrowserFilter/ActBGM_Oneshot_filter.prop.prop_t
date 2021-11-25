@@ -1,16 +1,19 @@
-key parent AssetBrowserFilter!FixedObjectTemplate.prop
+key parent AssetBrowserFilter!ActBGM_filter_Template.prop
 
-keys browserFilterButtonGraphic
-	AssetBrowserGraphics!0x753976EF.png # Normal
-	AssetBrowserGraphics!0x753976EE.png # Disabled
-	AssetBrowserGraphics!0x753976EC.png # Highlighted
-	AssetBrowserGraphics!0x753976EF.png # Act
-	AssetBrowserGraphics!0x753976ED.png # On Normal
-	AssetBrowserGraphics!0x753976EE.png # Disabled
-	AssetBrowserGraphics!0x753976EA.png # On Highlighted
-	AssetBrowserGraphics!0x753976ED.png # On Act
-	AssetBrowserGraphics!0x753976EE.png # Disabled
-end
+key browserFilterButtonAtlasedIconID 0xFFFFFFFF.FixedObjectAudioOneshot
+key image TMP!ActBGM_Oneshot_filter.png #FOR DEVELOPMENT ONLY! Needs to be removed before releasing the mod.
+
+#keys browserFilterButtonGraphic
+#	AssetBrowserGraphics!0x753976EF.png # Normal
+#	AssetBrowserGraphics!0x753976EE.png # Disabled
+#	AssetBrowserGraphics!0x753976EC.png # Highlighted
+#	AssetBrowserGraphics!0x753976EF.png # Act
+#	AssetBrowserGraphics!0x753976ED.png # On Normal
+#	AssetBrowserGraphics!0x753976EE.png # Disabled
+#	AssetBrowserGraphics!0x753976EA.png # On Highlighted
+#	AssetBrowserGraphics!0x753976ED.png # On Act
+#	AssetBrowserGraphics!0x753976EE.png # Disabled
+#end
 
 key browserFilterData ActBGM_Oneshot
 

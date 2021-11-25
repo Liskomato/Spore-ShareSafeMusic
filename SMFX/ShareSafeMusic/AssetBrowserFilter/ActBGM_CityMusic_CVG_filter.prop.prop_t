@@ -1,16 +1,19 @@
-key parent AssetBrowserFilter!FixedObjectTemplate.prop
+key parent AssetBrowserFilter!ActBGM_filter_Template.prop
 
-keys browserFilterButtonGraphic
-	AssetBrowserGraphics!0x7D070D6D.png # Normal
-	AssetBrowserGraphics!0x7D070D6C.png # Disabled
-	AssetBrowserGraphics!0x7D070D6E.png # Highlighted
-	AssetBrowserGraphics!0x7D070D6F.png # Act
-	AssetBrowserGraphics!0x7D070D68.png # On Normal
-	AssetBrowserGraphics!0x7D070D6C.png # Disabled
-	AssetBrowserGraphics!0x7D070D69.png # On Highlighted
-	AssetBrowserGraphics!0x7D070D6A.png # On Act
-	AssetBrowserGraphics!0x7D070D6C.png # Disabled
-end
+key browserFilterButtonAtlasedIconID 0xFFFFFFFF.CreatureCiv
+key image TMP!ActBGM_CityMusic_CVG_filter.png #FOR DEVELOPMENT ONLY! Needs to be removed before releasing the mod.
+
+#keys browserFilterButtonGraphic
+#	AssetBrowserGraphics!0x7D070D6D.png # Normal
+#	AssetBrowserGraphics!0x7D070D6C.png # Disabled
+#	AssetBrowserGraphics!0x7D070D6E.png # Highlighted
+#	AssetBrowserGraphics!0x7D070D6F.png # Act
+#	AssetBrowserGraphics!0x7D070D68.png # On Normal
+#	AssetBrowserGraphics!0x7D070D6C.png # Disabled
+#	AssetBrowserGraphics!0x7D070D69.png # On Highlighted
+#	AssetBrowserGraphics!0x7D070D6A.png # On Act
+#	AssetBrowserGraphics!0x7D070D6C.png # Disabled
+#end
 
 texts browserFilterName
 	(ShareSafeMusic_Filters!ActBGM_CityMusic_CVG) "Act BGM - Civ Anthems"
