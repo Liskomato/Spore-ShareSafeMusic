@@ -1,0 +1,5 @@
+key parent PaletteItems!ActBGM_parent.prop
+
+key sporepediaAssetType ActBGM_Soundtrack_CLG
+
+# For Cell Stage music.

@@ -24,3 +24,30 @@
 
 # ActBGM_Cinematics
 0xFAE13A84 Катсцены
+
+# ActBGM_Soundtrack
+0xEFE09760 Игровая музыка
+
+# ActBGM_Soundtrack_GGE
+0xF7520A7E Галактика
+
+# ActBGM_Soundtrack_EDI
+0xF44D885D Редакторы
+
+# ActBGM_Soundtrack_CLG
+0xD05C5A75 Этап "Клетка"
+
+# ActBGM_Soundtrack_CRG
+0xE25C760F Этап "Существо"
+
+# ActBGM_Soundtrack_TRG
+0xE476BD6C Этап "Племя"
+
+# ActBGM_Soundtrack_CVG
+0xE65C7CD3 Этап "Цивилизация"
+
+# ActBGM_Soundtrack_SPG
+0xE4838899 Этап "Космос"
+
+# ActBGM_Ambience
+0x8B306262 Фоновые звуки

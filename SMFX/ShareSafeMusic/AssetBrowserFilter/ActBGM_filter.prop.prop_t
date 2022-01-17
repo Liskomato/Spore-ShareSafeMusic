@@ -22,7 +22,9 @@ texts browserFilterName
 end
 
 keys browserFilterChildrenFilters
-	ActBGM_Unused
+	ActBGM_Soundtrack_filter
+	ActBGM_Unused_filter
 	ActBGM_CityMusic_filter
+	ActBGM_Ambience_filter
 	ActBGM_Oneshot_filter
 end

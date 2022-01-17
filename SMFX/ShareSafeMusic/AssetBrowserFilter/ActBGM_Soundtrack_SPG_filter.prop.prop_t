@@ -1,0 +1,10 @@
+key parent AssetBrowserFilter!ActBGM_filter_Template.prop
+
+key browserFilterButtonAtlasedIconID 0xFFFFFFFF.CreatureSpace
+key image TMP!ActBGM_Soundtrack_SPG_filter.png #FOR DEVELOPMENT ONLY! Needs to be removed before releasing the mod.
+
+key browserFilterData ActBGM_Soundtrack_SPG
+
+texts browserFilterName
+	(ShareSafeMusic_Filters!ActBGM_Soundtrack_SPG) "Act BGM - Space Game Soundtrack"
+end

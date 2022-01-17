@@ -1,9 +1,9 @@
-key parent PaletteItems!ActBGM_parent.prop
+key parent PaletteItems!ActBGM_Soundtrack_SPG_parent.prop
 
 uint32 adventureMusicId hash(sfx_ufo_soothingsong_lp1)
 
 key modelMeshLOD0 0xAB977819!0x937B42A1.rw4
-key paletteItemPlacedAsset CivicObjects!0xE5855B05.kPlaceableSound
+key paletteItemPlacedAsset CivicObjects!ep1_audioobject_music.cPlaceableSound
 
 texts sporepediaName
 	(ShareSafeMusic_Props!0x93) "Soothing Song 2"

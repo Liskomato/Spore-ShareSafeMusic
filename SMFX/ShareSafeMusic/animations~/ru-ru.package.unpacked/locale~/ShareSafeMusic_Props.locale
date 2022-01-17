@@ -22,9 +22,9 @@
 0x00000015 Alien - Whipper / Focus
 0x00000016 Героический марш
 0x00000017 Рост мозга
-0x00000018 Underwater Ambience 2
-0x00000019 Underwater Ambience 1
-0x0000001a Underwater Ambience 4
+0x00000018 Подводные звуки 2
+0x00000019 Подводные звуки 1
+0x0000001a Подводные звуки 4
 0x0000001b Sting - Landfall
 0x0000001c Road to Sentience
 0x0000001d Prey
@@ -42,30 +42,30 @@
 0x00000029 Cell Stage 10
 0x0000002a Cell Stage 11
 0x0000002b Cell Stage 01
-0x0000002c Underwater Ambience 3
+0x0000002c Подводные звуки 3
 0x0000002d Sting - Totem Drop / A Tall Statue
 0x0000002e Sting - Welcome to the World, Little One!
 0x0000002f Sting - Own Hut Destroyed / Sporian Inquisition
 0x00000030 Sting - Our First Neighbours
 0x00000031 Sting - Tribal Upgrade / Our Land Prosper
 0x00000032 Sting - Tribal Start / A Roof Over Your Head
-0x00000033 Sting - Adventure Death 1
-0x00000034 Sting - Adventure Death 2
-0x00000035 Sting - Adventure Failure 1
-0x00000036 Sting - Adventure Failure 2
-0x00000037 Sting - Adventure Failure 3
-0x00000038 Sting - Adventure Failure 4
-0x00000039 Sting - Adventure Opening 1
-0x0000003a Sting - Adventure Opening 2
-0x0000003b Sting - Adventure Opening 3
-0x0000003c Sting - Adventure Opening 4
-0x0000003d Sting - Adventure Opening 5
-0x0000003e Sting - Adventure Opening 6
-0x0000003f Sting - Adventure Opening 7
-0x00000040 Sting - Adventure Win 1
-0x00000041 Sting - Adventure Win 2
-0x00000042 Sting - Adventure Win 3
-0x00000043 Sting - Adventure Win 4
+0x00000033 Приключение - Смерть 1
+0x00000034 Приключение - Смерть 2
+0x00000035 Приключение - Провал 1
+0x00000036 Приключение - Провал 2
+0x00000037 Приключение - Провал 3
+0x00000038 Приключение - Провал 4
+0x00000039 Приключение - Начало 1
+0x0000003a Приключение - Начало 2
+0x0000003b Приключение - Начало 3
+0x0000003c Приключение - Начало 4
+0x0000003d Приключение - Начало 5
+0x0000003e Приключение - Начало 6
+0x0000003f Приключение - Начало 7
+0x00000040 Приключение - Победа 1
+0x00000041 Приключение - Победа 2
+0x00000042 Приключение - Победа 3
+0x00000043 Приключение - Победа 4
 0x00000044 Sting - Economic Takeover
 0x00000045 Sting - Military Takeover
 0x00000046 Sting - Religious Takeover
@@ -82,16 +82,16 @@
 0x00000051 Снаряжение цивилизации - Конструктор
 0x00000052 Снаряжение цивилизации - Окрашивание
 0x00000053 Sting - Lost Civilization / The End of a Millenium
-0x00000054 Religious Conversion 1
-0x00000055 Religious Conversion 2
-0x00000056 Religious Conversion 3
+0x00000054 Религиозное воздействие 1
+0x00000055 Религиозное воздействие 1
+0x00000056 Религиозное воздействие 1
 0x00000057 Holy Concert
 0x00000058 Sting - Alliance Dissolved
 0x00000059 Sting - Peace Declaration
 0x0000005a Sting - War Declaration
 0x0000005b Sting - Alliance Formed
 0x0000005c Early Creature Ambience
-0x0000005d Sting - Claiming Nest
+0x0000005d Новое гнездо
 0x0000005e Sting - Migration
 0x0000005f Also Sprach Zarathustra
 0x00000060 Also Sprach, Uh...
@@ -101,21 +101,21 @@
 0x00000064 Редактор приключений
 0x00000065 Интро Spore: Космические приключения
 0x00000066 Galactic Ambience
-0x00000067 A Universe In Your Hands
-0x00000068 Your Own Personal Universe (Galaxy Menu)
+0x00000067 Главное меню 1
+0x00000068 Главное меню 2
 0x00000069 The Planet is About To Be Rocked! (Cell Stage Intro)
 0x0000006a Array of Flowers
 0x0000006b Редактор комбайнов
-0x0000006c Chimes of Healing
+0x0000006c Лечение существа
 0x0000006d Drifting Weightlessly (Interstellar Space)
 0x0000006e Интро Spore
-0x0000006f Loadtering 1
-0x00000070 Loadtering 2
-0x00000071 Sting - Mating 6
-0x00000072 Sting - Mating 7
-0x00000073 Sting - Mating 8
-0x00000074 Sting - Mating 9
-0x00000075 Mountain Steam
+0x0000006f Загрузочный экран 1
+0x00000070 Загрузочный экран 2
+0x00000071 Размножение 1
+0x00000072 Размножение 2
+0x00000073 Размножение 3
+0x00000074 Размножение 4
+0x00000075 Источник пряности
 0x00000076 Neutral Ambience
 0x00000077 Raze and Pillage
 0x00000078 Tribal Heist
@@ -158,7 +158,7 @@
 0x0000009d Споропедия 1
 0x0000009e Споропедия 3
 0x0000009f Споропедия 2
-0x000000a0 The Fabric of Space (Solar System)
+0x000000a0 Звёздная система
 0x000000a1 Космическое снаряжение - Конструктор
 0x000000a2 Космическое снаряжение - Окрашивание
 0x000000a3 Event Horizon
@@ -174,7 +174,7 @@
 0x000000ad Sting - Military Capture
 0x000000ae Horn - Beastmaster
 0x000000af Horn - Flying Fish
-0x000000b0 Hypnotized
+0x000000b0 Гипноз
 0x000000b1 Sting - Summon Flock
 0x000000b2 Sting - Refreshing Storm
 0x000000b3 Sting - Siren Song
@@ -204,5 +204,5 @@
 0x000000cb Редактор построек - Конструктор
 0x000000cc Редактор построек - Окрашивание
 0x000000cd Песнь гармонии
-0x000000ce 
-0x000000cf 
+0x000000ce Окончание катсцены
+0x000000cf Дверной звонок

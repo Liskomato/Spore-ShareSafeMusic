@@ -1,0 +1,5 @@
+key parent PaletteItems!ActBGM_parent.prop
+
+key sporepediaAssetType ActBGM_Ambience
+
+# For ambient sounds.

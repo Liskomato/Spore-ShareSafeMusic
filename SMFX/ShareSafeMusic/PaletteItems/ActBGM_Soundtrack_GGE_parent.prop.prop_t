@@ -1,0 +1,5 @@
+key parent PaletteItems!ActBGM_parent.prop
+
+key sporepediaAssetType ActBGM_Soundtrack_GGE
+
+# For main menu (Galaxy Game Entry) music.

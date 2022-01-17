@@ -3,7 +3,7 @@ key parent PaletteItems!palette_music_cinematic_open_parent.prop
 uint32 adventureMusicId 0xC8991350
 
 key modelMeshLOD0 0xAB977819!0x937B42A1.rw4
-key paletteItemPlacedAsset CivicObjects!0xE5855B05.kPlaceableSound
+key paletteItemPlacedAsset CivicObjects!ep1_audioobject_music.cPlaceableSound
 
 texts sporepediaName
 	(ShareSafeMusic_Props!0x3b) "Sting - Adventure Opening 3"

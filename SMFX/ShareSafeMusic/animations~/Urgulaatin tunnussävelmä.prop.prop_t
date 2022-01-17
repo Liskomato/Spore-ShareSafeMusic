@@ -1,0 +1,32 @@
+# Author: Liskomato
+
+uint32 Beat 10
+uint32 Instrument 7
+uint32s NotesPitch
+	64
+	69
+	64
+	69
+	67
+	60
+	67
+end
+floats NotesLength
+	3.0
+	1.0
+	3.0
+	1.0
+	1.0
+	1.0
+	1.0
+end
+uint32s Ambience
+	19
+	8
+	3
+end
+floats Volumes
+	1.0
+	1.0
+	1.0
+end
