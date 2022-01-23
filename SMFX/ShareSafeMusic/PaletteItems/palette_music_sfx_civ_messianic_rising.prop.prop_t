@@ -8,4 +8,5 @@ key paletteItemPlacedAsset CivicObjects!ep1_audioobject_music.cPlaceableSound
 texts sporepediaName
 	(ShareSafeMusic_Props!0x82) "Sting - Messianic Rising"
 end
+key sporepediaBackdropImage AssetBrowserGraphics!ShareSafeMusic-Backdrop_CVG_MessianicRising.png
 bool sporepediaShow true

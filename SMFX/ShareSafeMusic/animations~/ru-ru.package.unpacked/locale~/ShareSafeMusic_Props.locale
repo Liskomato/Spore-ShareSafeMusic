@@ -1,54 +1,54 @@
-0x00000000 Alien - Ahh-hah / Remorse
-0x00000001 Alien - Concentration
-0x00000002 Alien - Bloop Bleep / Transmission
-0x00000003 Alien - Blubber / Harmony
-0x00000004 Alien - Brianspear / Confusion
-0x00000005 Alien - Factory / Suspicion
-0x00000006 Alien - Foreboding
-0x00000007 Alien - Kalimba 1
-0x00000008 Alien - Kalimba 2 / Daydreaming
-0x00000009 Alien - Melancholy / Reminiscence
-0x0000000a Alien - Scheming
-0x0000000b Alien - Thoughtful
-0x0000000c Alien - Patience
-0x0000000d Alien - The Grox
-0x0000000e Alien - Dubious
-0x0000000f Alien - Discovery
-0x00000010 Alien - Random Beat
-0x00000011 Alien - Sailor Song / Meditation
-0x00000012 Alien - Shepard / Distrust
-0x00000013 Alien - Seizure / Whimsical
-0x00000014 Alien - Underworld / Unstable
-0x00000015 Alien - Whipper / Focus
+0x00000000 Раскаяние
+0x00000001 Концентрация
+0x00000002 Распространение
+0x00000003 Гармония
+0x00000004 Конфузия
+0x00000005 Фабрика
+0x00000006 Напряжение
+0x00000007 Калимба 1
+0x00000008 Калимба 2
+0x00000009 Меланхолия
+0x0000000a Коварство
+0x0000000b Вдумчивость
+0x0000000c Терпение
+0x0000000d Гроксы
+0x0000000e Подозрительность
+0x0000000f Современность
+0x00000010 Бит
+0x00000011 Медитация
+0x00000012 Недоверчивость
+0x00000013 Судороги
+0x00000014 Нестабильность
+0x00000015 Сфокусированность
 0x00000016 Героический марш
 0x00000017 Рост мозга
 0x00000018 Подводные звуки 2
 0x00000019 Подводные звуки 1
 0x0000001a Подводные звуки 4
-0x0000001b Sting - Landfall
-0x0000001c Road to Sentience
+0x0000001b Выход на берег
+0x0000001c Зарождение разума
 0x0000001d Prey
-0x0000001e Sting - Cell Cymbal
+0x0000001e Событие
 0x0000001f Редактор клеток - Конструктор
 0x00000020 Редактор клеток - Окрашивание
-0x00000021 Cell Stage 02
-0x00000022 Cell Stage 03
-0x00000023 Cell Stage 04
-0x00000024 Cell Stage 05
-0x00000025 Cell Stage 06
-0x00000026 Cell Stage 07
-0x00000027 Cell Stage 08
-0x00000028 Cell Stage 09
-0x00000029 Cell Stage 10
-0x0000002a Cell Stage 11
-0x0000002b Cell Stage 01
+0x00000021 Этап "Клетка" 02
+0x00000022 Этап "Клетка" 03
+0x00000023 Этап "Клетка" 04
+0x00000024 Этап "Клетка" 05
+0x00000025 Этап "Клетка" 06
+0x00000026 Этап "Клетка" 07
+0x00000027 Этап "Клетка" 08
+0x00000028 Этап "Клетка" 09
+0x00000029 Этап "Клетка" 10
+0x0000002a Этап "Клетка" 11
+0x0000002b Этап "Клетка" 01
 0x0000002c Подводные звуки 3
-0x0000002d Sting - Totem Drop / A Tall Statue
-0x0000002e Sting - Welcome to the World, Little One!
-0x0000002f Sting - Own Hut Destroyed / Sporian Inquisition
-0x00000030 Sting - Our First Neighbours
-0x00000031 Sting - Tribal Upgrade / Our Land Prosper
-0x00000032 Sting - Tribal Start / A Roof Over Your Head
+0x0000002d Новый фрагмент тотема
+0x0000002e Рождение детёныша
+0x0000002f Хижина потеряна
+0x00000030 Первые соседи
+0x00000031 Улучшение племени
+0x00000032 Хижина построена
 0x00000033 Приключение - Смерть 1
 0x00000034 Приключение - Смерть 2
 0x00000035 Приключение - Провал 1
@@ -66,9 +66,9 @@
 0x00000041 Приключение - Победа 2
 0x00000042 Приключение - Победа 3
 0x00000043 Приключение - Победа 4
-0x00000044 Sting - Economic Takeover
-0x00000045 Sting - Military Takeover
-0x00000046 Sting - Religious Takeover
+0x00000044 Экономический город
+0x00000045 Военный город
+0x00000046 Религиозный город
 0x00000047 Гнетущая сила
 0x00000048 Подготовка к войне
 0x00000049 Забытие
@@ -81,18 +81,18 @@
 0x00000050 Слово Спориево
 0x00000051 Снаряжение цивилизации - Конструктор
 0x00000052 Снаряжение цивилизации - Окрашивание
-0x00000053 Sting - Lost Civilization / The End of a Millenium
+0x00000053 Падение цивилизации
 0x00000054 Религиозное воздействие 1
-0x00000055 Религиозное воздействие 1
-0x00000056 Религиозное воздействие 1
-0x00000057 Holy Concert
-0x00000058 Sting - Alliance Dissolved
-0x00000059 Sting - Peace Declaration
-0x0000005a Sting - War Declaration
-0x0000005b Sting - Alliance Formed
-0x0000005c Early Creature Ambience
+0x00000055 Религиозное воздействие 2
+0x00000056 Религиозное воздействие 3
+0x00000057 Священный концерт
+0x00000058 Союз расторгнут
+0x00000059 Объявлен мир
+0x0000005a Объявлена война
+0x0000005b Союз заключен
+0x0000005c Редактор простейших
 0x0000005d Новое гнездо
-0x0000005e Sting - Migration
+0x0000005e Миграция существ
 0x0000005f Also Sprach Zarathustra
 0x00000060 Also Sprach, Uh...
 0x00000061 Ah, Zarathustra!
@@ -100,14 +100,14 @@
 0x00000063 Снаряжение капитана
 0x00000064 Редактор приключений
 0x00000065 Интро Spore: Космические приключения
-0x00000066 Galactic Ambience
+0x00000066 Звуки галактики
 0x00000067 Главное меню 1
 0x00000068 Главное меню 2
-0x00000069 The Planet is About To Be Rocked! (Cell Stage Intro)
-0x0000006a Array of Flowers
+0x00000069 Начало этапа "Клетка"
+0x0000006a Дары
 0x0000006b Редактор комбайнов
 0x0000006c Лечение существа
-0x0000006d Drifting Weightlessly (Interstellar Space)
+0x0000006d Межзвёздные полёты
 0x0000006e Интро Spore
 0x0000006f Загрузочный экран 1
 0x00000070 Загрузочный экран 2
@@ -116,91 +116,91 @@
 0x00000073 Размножение 3
 0x00000074 Размножение 4
 0x00000075 Источник пряности
-0x00000076 Neutral Ambience
-0x00000077 Raze and Pillage
-0x00000078 Tribal Heist
+0x00000076 Нейтральная планета
+0x00000077 Нападение
+0x00000078 Разбойники
 0x00000079 Риголетто
-0x0000007a Sting - Economic Conquest
-0x0000007b Sting - Military Conquest
-0x0000007c Sting - Religious Conquest
-0x0000007d Sting - Out of the Dirt (Civilization Intro)
-0x0000007e Dervish
-0x0000007f Sting - Global Market
+0x0000007a Покупка города
+0x0000007b Захват города
+0x0000007c Обращение города в веру
+0x0000007d Наш первый город
+0x0000007e Дервиш
+0x0000007f Всемирное слияние
 0x00000080 МБР
-0x00000081 Sting - All Cities Lost
-0x00000082 Sting - Messianic Rising
-0x00000083 Gadget Bomb Preparation 1
-0x00000084 Gadget Bomb Preparation 
-0x00000085 Gadget Bomb Armed 1
-0x00000086 Gadget Bomb Armed 2
-0x00000087 Gadget Bomb Launch (with SFX)
-0x00000088 Gadget Bomb Launch
-0x00000089 Radio Communications
-0x0000008a Alarm - Air Raid
-0x0000008b Sting - Travel Beyond The Sky
-0x0000008c Sting - Travel Beyond Land
-0x0000008d Look Out Above!
-0x0000008e Meaning of Life 1
-0x0000008f Meaning of Life 2
+0x00000081 Все города потеряны
+0x00000082 Пришествие мессии
+0x00000083 Подготовка технобомбы 1
+0x00000084 Подготовка технобомбы 2
+0x00000085 Технобомба выбрана 1
+0x00000086 Технобомба выбрана 2
+0x00000087 Запуск технобомбы (с SFX)
+0x00000088 Запуск технобомбы
+0x00000089 Радиосвязь
+0x0000008a Сирена
+0x0000008b Воздушная техника открыта
+0x0000008c Морская техника открыта
+0x0000008d Метеоритный дождь
+0x0000008e Просвещение 1
+0x0000008f Просвещение 2
 0x00000090 Усилитель счастья
 0x00000091 Задушевная песнь - Вступление
 0x00000092 Задушевная песнь 1
 0x00000093 Задушевная песнь 2
-0x00000094 Space Communications
-0x00000095 Sting - Enemy Territory
-0x00000096 Sting - Mission Success!
-0x00000097 Sting - Deterraformation
-0x00000098 Sting - Terraformation
-0x00000099 Flow of Time
-0x0000009a Sting - Tribal Raid Gong
-0x0000009b Sting - UFO
-0x0000009c Sting - UFO Departs
+0x00000094 Космическая связь
+0x00000095 Территория врага
+0x00000096 Задание выполнено
+0x00000097 Повышение терраиндекса
+0x00000098 Понижение терраиндекса
+0x00000099 Пролёт времени
+0x0000009a Гонг - Нападение племени
+0x0000009b Космический корабль
+0x0000009c Отлёт космического корабля
 0x0000009d Споропедия 1
 0x0000009e Споропедия 3
 0x0000009f Споропедия 2
 0x000000a0 Звёздная система
 0x000000a1 Космическое снаряжение - Конструктор
 0x000000a2 Космическое снаряжение - Окрашивание
-0x000000a3 Event Horizon
+0x000000a3 Механический шум
 0x000000a4 Черная дыра
-0x000000a5 Galactic Warfare End
-0x000000a6 Galactic Warfare Gong 2
-0x000000a7 Galactic Warfare Gong 3
-0x000000a8 Galactic Warfare 2
-0x000000a9 Galactic Warfare 3
-0x000000aa Galactic Warfare 1
-0x000000ab Sting - Economic Capture
-0x000000ac Sting - New Colony
-0x000000ad Sting - Military Capture
-0x000000ae Horn - Beastmaster
-0x000000af Horn - Flying Fish
+0x000000a5 Сражение - Конец
+0x000000a6 Гонг - Сражение 2
+0x000000a7 Гонг - Сражение 3
+0x000000a8 Сражение 2
+0x000000a9 Сражение 3
+0x000000aa Сражение 1
+0x000000ab Покупка системы
+0x000000ac Новая колония
+0x000000ad Захват системы
+0x000000ae Укротитель
+0x000000af Летающая рыба
 0x000000b0 Гипноз
-0x000000b1 Sting - Summon Flock
-0x000000b2 Sting - Refreshing Storm
-0x000000b3 Sting - Siren Song
-0x000000b4 Sting - Newborn Baby
+0x000000b1 Вызов подмоги
+0x000000b2 Живительная буря
+0x000000b3 Песнь сирен
+0x000000b4 Новорожденный детёныш
 0x000000b5 Танец вокруг костра
-0x000000b6 Sting - Back To The Ground
+0x000000b6 Смерть племени
 0x000000b7 Remembering the Wild
-0x000000b8 Giddy-Up!
-0x000000b9 Sting - A New Plan
-0x000000ba Sting - A New Hall
+0x000000b8 Получение даров
+0x000000b9 Новый план
+0x000000ba Новая ратуша
 0x000000bb Снаряжение племени - Конструктор
 0x000000bc Снаряжение племени - Окрашивание
 0x000000bd Редактор косм. кораблей - Конструктор
 0x000000be Редактор косм. кораблей - Окрашивание
 0x000000bf Луч счастья
-0x000000c0 Horn - UFO 1
-0x000000c1 Horn - UFO 2
-0x000000c2 Horn - UFO 3
-0x000000c3 Horn - UFO 4
+0x000000c0 НЛО 1
+0x000000c1 НЛО 2
+0x000000c2 НЛО 3
+0x000000c3 НЛО 4
 0x000000c4 Редактор торговой техники - Конструктор
 0x000000c5 Редактор торговой техники - Окрашивание
 0x000000c6 Редактор военной техники - Конструктор
 0x000000c7 Редактор военной техники - Окрашивание
 0x000000c8 Редактор религиозной техники - Конструктор
 0x000000c9 Редактор религиозной техники - Окрашивание
-0x000000ca Galactic Warfare Gong 1
+0x000000ca Гонг - Сражение 1
 0x000000cb Редактор построек - Конструктор
 0x000000cc Редактор построек - Окрашивание
 0x000000cd Песнь гармонии

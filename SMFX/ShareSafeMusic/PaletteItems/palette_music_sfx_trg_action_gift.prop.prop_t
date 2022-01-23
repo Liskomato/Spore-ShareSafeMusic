@@ -8,5 +8,5 @@ key paletteItemPlacedAsset CivicObjects!ep1_audioobject_music.cPlaceableSound
 texts sporepediaName
 	(ShareSafeMusic_Props!0xcf) "Ringing Clock"
 end
-key sporepediaBackdropImage AssetBrowserGraphics!ShareSafeMusic-Backdrop_Clock.png
+key sporepediaBackdropImage AssetBrowserGraphics!ShareSafeMusic-Backdrop_Doorbell.png
 bool sporepediaShow true
