@@ -1,4 +1,4 @@
-key parent PaletteItems!ActBGM_Ambience_parent.prop
+key parent PaletteItems!palette_music_cell_amb_parent.prop
 
 uint32 adventureMusicId hash(cell_amb_loop_new)
 

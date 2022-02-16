@@ -8,6 +8,7 @@ key paletteItemPlacedAsset CivicObjects!ep1_audioobject_music.cPlaceableSound
 texts sporepediaName
 	(ShareSafeMusic_Props!0x1b) "Sting - Landfall"
 end
+key sporepediaBackdropImage AssetBrowserGraphics!ShareSafeMusic-Backdrop_CRG_Start.png
 bool sporepediaShow true
 
 # The Creature Stage intro music

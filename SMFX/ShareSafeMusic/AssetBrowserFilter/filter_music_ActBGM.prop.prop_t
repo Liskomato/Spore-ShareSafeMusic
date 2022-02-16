@@ -5,7 +5,7 @@ key image TMP!filter.png #FOR DEVELOPMENT ONLY! Needs to be removed before relea
 keys browserFilterChildrenFilters
 	FixedObjectAudioMusic
 	ActBGM_filter
-	#ActBGM_filter_Test
+	ActBGM_filter_Test
 end
 
 texts browserFilterName
