@@ -1,4 +1,4 @@
-key parent PaletteItems!ActBGM_Oneshot_parent.prop
+key parent PaletteItems!ActBGM_Cinematics_parent.prop
 
 uint32 adventureMusicId hash(sfx_civ_upgrade_water1)
 
@@ -8,4 +8,5 @@ key paletteItemPlacedAsset CivicObjects!ep1_audioobject_music.cPlaceableSound
 texts sporepediaName
 	(ShareSafeMusic_Props!0x8c) "Sting - Travel Beyond Land"
 end
+key sporepediaBackdropImage AssetBrowserGraphics!ShareSafeMusic-Backdrop_CVG_UnlockSea.png
 bool sporepediaShow true

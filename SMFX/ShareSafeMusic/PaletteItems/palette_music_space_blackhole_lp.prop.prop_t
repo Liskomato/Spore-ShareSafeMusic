@@ -1,4 +1,4 @@
-key parent PaletteItems!ActBGM_Ambience_parent.prop
+key parent PaletteItems!palette_music_space_blackhole_parent.prop
 
 uint32 adventureMusicId hash(space_blackhole_lp)
 
@@ -8,5 +8,4 @@ key paletteItemPlacedAsset CivicObjects!ep1_audioobject_music.cPlaceableSound
 texts sporepediaName
 	(ShareSafeMusic_Props!0xa4) "Black Hole"
 end
-key sporepediaBackdropImage AssetBrowserGraphics!ShareSafeMusic-Backdrop_SPG_BlackHole.png
 bool sporepediaShow true

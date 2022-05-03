@@ -1,6 +1,6 @@
 key parent PaletteItems!palette_music_cinematic_death_parent.prop
 
-uint32 adventureMusicId 0x894E748C
+uint32 adventureMusicId hash(music_cinematic_death1)
 
 key modelMeshLOD0 0xAB977819!0x937B42A1.rw4
 key paletteItemPlacedAsset CivicObjects!ep1_audioobject_music.cPlaceableSound

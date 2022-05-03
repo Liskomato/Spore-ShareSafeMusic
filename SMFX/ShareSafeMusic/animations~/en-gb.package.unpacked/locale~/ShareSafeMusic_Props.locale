@@ -207,3 +207,8 @@
 0x000000ce Cutscene Whoosh
 0x000000cf Doorbell
 0x000000d0 Static Noise
+0x000000d1 Bacteria Phase 1
+0x000000d2 Bacteria Phase 2
+0x000000d3 Bacteria Phase 3
+0x000000d4 Chicken
+0x000000d5 Cow

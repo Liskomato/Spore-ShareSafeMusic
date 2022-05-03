@@ -1,7 +1,7 @@
 # TEST
 key parent PaletteItems!ActBGM_parent.prop
 
-uint32 adventureMusicId hash(sfx_spg_com_static_lp)
+uint32 adventureMusicId hash(sfx_bacterialoop1)
 
 key modelMeshLOD0 0xAB977819!0x937B42A1.rw4
 key paletteItemPlacedAsset CivicObjects!ep1_audioobject_music.cPlaceableSound

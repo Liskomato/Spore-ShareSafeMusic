@@ -207,3 +207,8 @@
 0x000000ce Kohtaussuhahdus
 0x000000cf Ovikello
 0x000000d0 Staattinen melu
+0x000000d1 Bakteerivaihe 1
+0x000000d2 Bakteerivaihe 2
+0x000000d3 Bakteerivaihe 3
+0x000000d4 Kana
+0x000000d5 Lehmä
