@@ -1,4 +1,4 @@
-key parent PaletteItems!ActBGM_Oneshot_parent.prop
+key parent PaletteItems!ActBGM_Cinematics_parent.prop
 
 uint32 adventureMusicId hash(music_cin_trg_babyborn)
 
@@ -8,4 +8,5 @@ key paletteItemPlacedAsset CivicObjects!ep1_audioobject_music.cPlaceableSound
 texts sporepediaName
 	(ShareSafeMusic_Props!0x2e) "Sting - Welcome to the World, Little One!"
 end
+key sporepediaBackdropImage AssetBrowserGraphics!ShareSafeMusic-Backdrop_TRG_BabyBorn.png
 bool sporepediaShow true

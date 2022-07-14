@@ -1,4 +1,4 @@
-key parent PaletteItems!ActBGM_Soundtrack_CVG_parent.prop
+key parent PaletteItems!palette_music_sfx_civ_tactical_nuke_parent.prop
 
 uint32 adventureMusicId hash(sfx_tact_icbm_target_music_lp2)
 

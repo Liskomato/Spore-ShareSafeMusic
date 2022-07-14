@@ -8,6 +8,7 @@ key paletteItemPlacedAsset CivicObjects!ep1_audioobject_music.cPlaceableSound
 texts sporepediaName
 	(ShareSafeMusic_Props!0x57) "Holy Concert"
 end
+key sporepediaBackdropImage AssetBrowserGraphics!ShareSafeMusic-Backdrop_CVG_Source.png
 bool sporepediaShow true
 
 # This track has a chance of playing when observing citizens of a religious city.
