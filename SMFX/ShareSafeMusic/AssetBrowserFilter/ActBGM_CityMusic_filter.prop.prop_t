@@ -23,3 +23,5 @@ keys browserFilterChildrenFilters
 	ActBGM_CityMusic_CVG_filter
 	ActBGM_CityMusic_SPG_filter
 end
+
+bool browserAllowSortByType true

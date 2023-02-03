@@ -2,7 +2,7 @@ key parent PaletteItems!ActBGM_Oneshot_parent.prop
 
 uint32 adventureMusicId hash(sfx_civ_global_nuclear_war)
 
-key modelMeshLOD0 0xAB977819!0x937B42A1.rw4
+key modelMeshLOD0 EP1_TerrainIcons!0x937B42A1.rw4
 key paletteItemPlacedAsset CivicObjects!ep1_audioobject_music.cPlaceableSound
 
 texts sporepediaName

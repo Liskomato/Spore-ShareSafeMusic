@@ -1,8 +1,8 @@
-key parent PaletteItems!ActBGM_Oneshot_parent.prop
+key parent PaletteItems!palette_music_city_takeover_parent.prop
 
 uint32 adventureMusicId hash(city_takeover_relig)
 
-key modelMeshLOD0 0xAB977819!0x937B42A1.rw4
+key modelMeshLOD0 EP1_TerrainIcons!0x937B42A1.rw4
 key paletteItemPlacedAsset CivicObjects!ep1_audioobject_music.cPlaceableSound
 
 texts sporepediaName

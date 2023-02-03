@@ -28,3 +28,5 @@ keys browserFilterChildrenFilters
 	ActBGM_Ambience_filter
 	ActBGM_Oneshot_filter
 end
+
+bool browserAllowSortByType true

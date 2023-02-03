@@ -24,3 +24,5 @@ keys browserFilterChildrenFilters
 	ActBGM_CityMusic_CVG_Economic_filter
 	ActBGM_CityMusic_CVG_Religious_filter
 end
+
+bool browserAllowSortByType true

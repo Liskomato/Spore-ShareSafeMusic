@@ -2,12 +2,13 @@ key parent PaletteItems!ActBGM_Oneshot_parent.prop
 
 uint32 adventureMusicId hash(music_cell_cymbal)
 
-key modelMeshLOD0 0xAB977819!0x937B42A1.rw4
+key modelMeshLOD0 EP1_TerrainIcons!0x937B42A1.rw4
 key paletteItemPlacedAsset CivicObjects!ep1_audioobject_music.cPlaceableSound
 
 texts sporepediaName
 	(ShareSafeMusic_Props!0x1e) "Sting - Cell Cymbal"
 end
+key sporepediaBackdropImage AssetBrowserGraphics!ShareSafeMusic-Backdrop_CLG_Beach.png
 bool sporepediaShow true
 
 # Presumably the audio effect for when your cell swims away at the end of Cell Stage.
