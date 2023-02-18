@@ -8,6 +8,7 @@ key paletteItemPlacedAsset CivicObjects!ep1_audioobject_music.cPlaceableSound
 texts sporepediaName
 	(ShareSafeMusic_Props!0x5f) "Also Sprach Zarathustra"
 end
+key sporepediaBackdropImage AssetBrowserGraphics!ShareSafeMusic-Backdrop_CRG2TRG_Fire.png
 bool sporepediaShow true
 
 # The complete version of Also Sprach Zarathustra by Richard Strauss. 

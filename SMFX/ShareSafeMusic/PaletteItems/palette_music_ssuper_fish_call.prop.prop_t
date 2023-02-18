@@ -8,4 +8,5 @@ key paletteItemPlacedAsset CivicObjects!ep1_audioobject_music.cPlaceableSound
 texts sporepediaName
 	(ShareSafeMusic_Props!0xaf) "Horn - Flying Fish"
 end
+key sporepediaBackdropImage AssetBrowserGraphics!ShareSafeMusic-Backdrop_TRG_FishCall.png
 bool sporepediaShow true

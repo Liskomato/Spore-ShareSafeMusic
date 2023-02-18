@@ -8,6 +8,7 @@ key paletteItemPlacedAsset CivicObjects!ep1_audioobject_music.cPlaceableSound
 texts sporepediaName
 	(ShareSafeMusic_Props!0x65) "GA Intro"
 end
+key sporepediaBackdropImage AssetBrowserGraphics!ShareSafeMusic-Backdrop_Intro.png
 bool sporepediaShow false
 
 # The intro movie track for Galactic Adventures.

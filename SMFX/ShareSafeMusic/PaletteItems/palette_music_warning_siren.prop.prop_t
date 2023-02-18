@@ -6,7 +6,7 @@ key modelMeshLOD0 EP1_TerrainIcons!0x937B42A1.rw4
 key paletteItemPlacedAsset CivicObjects!ep1_audioobject_music.cPlaceableSound
 
 texts sporepediaName
-	(ShareSafeMusic_Props!0xd7) "Alarm - Sirens"
+	(ShareSafeMusic_Props!0xd7) "Alarm - Air Raid Sirens"
 end
 key sporepediaBackdropImage AssetBrowserGraphics!ShareSafeMusic-Backdrop_CVG_AirRaid.png
 bool sporepediaShow true

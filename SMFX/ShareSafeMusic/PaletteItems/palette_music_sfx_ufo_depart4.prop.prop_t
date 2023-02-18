@@ -8,4 +8,5 @@ key paletteItemPlacedAsset CivicObjects!ep1_audioobject_music.cPlaceableSound
 texts sporepediaName
 	(ShareSafeMusic_Props!0x9c) "Sting - UFO Departs"
 end
+key sporepediaBackdropImage AssetBrowserGraphics!ShareSafeMusic-Backdrop_UFODepart.png
 bool sporepediaShow true
