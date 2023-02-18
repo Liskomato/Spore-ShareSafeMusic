@@ -1,5 +1,5 @@
-<mod displayName="Share-Safe Music" unique="Share-Safe Music" description="Adds around 200 new audio tracks from Spore and Galactic Adventures to be selectable as act background music in the Adventure Editor. All of the music tracks found in this mod should work in adventures without the mod installed." installerSystemVersion="1.0.2.0" hasCustomInstaller="false" dllsBuild="2.5.20">
-<prerequisite game="GalacticAdventures">!!!ShareSafeMusic v1.0 [by Liskomato & 0KepOnline].package</prerequisite>
+<mod displayName="Share-Safe Music" unique="Share-Safe Music" description="Co-developed by Liskomato and 0KepOnline. Adds around 200 new audio tracks from Spore and Galactic Adventures to be selectable as act background music in the Adventure Editor. All of the music tracks found in this mod should work in adventures without the mod installed." installerSystemVersion="1.0.2.0" hasCustomInstaller="false" dllsBuild="2.5.20">
+<prerequisite game="GalacticAdventures">!!!ShareSafeMusic v1.0 [by Liskomato &amp; 0KepOnline].package</prerequisite>
 <remove game="GalacticAdventures">*ShareSafeMusic*</remove>
 <remove game="Spore">*ShareSafeMusic*</remove>
 <remove>*ShareSafeMusic*</remove>
