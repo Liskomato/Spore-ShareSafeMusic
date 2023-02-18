@@ -1,11 +1,9 @@
 key browserFilterButtonAtlasedIconID 0xFFFFFFFF.FixedObjectAudio
-key image TMP!filter.png #FOR DEVELOPMENT ONLY! Needs to be removed before releasing the mod.
-#key browserFilterButtonAtlasedIconID layouts_atlas_2~!button_music_ActBGM
 
 keys browserFilterChildrenFilters
 	FixedObjectAudioMusic
 	ActBGM_filter
-	ActBGM_filter_Test
+	#ActBGM_filter_Test
 end
 
 texts browserFilterName

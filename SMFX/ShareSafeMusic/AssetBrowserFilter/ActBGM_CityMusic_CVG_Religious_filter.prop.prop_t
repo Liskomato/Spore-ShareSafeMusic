@@ -1,19 +1,6 @@
 key parent AssetBrowserFilter!ActBGM_filter_Template.prop
 
 key browserFilterButtonAtlasedIconID 0xFFFFFFFF.CulturalLand
-key image TMP!ActBGM_CityMusic_CVG_Religious_filter.png #FOR DEVELOPMENT ONLY! Needs to be removed before releasing the mod.
-
-#keys browserFilterButtonGraphic
-#	AssetBrowserGraphics!0xF9FE0CE5.png # Normal
-#	AssetBrowserGraphics!0xF9FE0CE4.png # Disabled
-#	AssetBrowserGraphics!0xF9FE0CE6.png # Highlighted
-#	AssetBrowserGraphics!0xF9FE0CE7.png # Act
-#	AssetBrowserGraphics!0xF9FE0CE0.png # On Normal
-#	AssetBrowserGraphics!0xF9FE0CE4.png # Disabled
-#	AssetBrowserGraphics!0xF9FE0CE1.png # On Highlighted
-#	AssetBrowserGraphics!0xF9FE0CE2.png # On Act
-#	AssetBrowserGraphics!0xF9FE0CE4.png # Disabled
-#end
 
 key browserFilterData ActBGM_CityMusic_CVG_Religious
 

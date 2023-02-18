@@ -1,19 +1,6 @@
 key parent AssetBrowserFilter!ActBGM_filter_Template.prop
 
 key browserFilterButtonAtlasedIconID 0xFFFFFFFF.FixedObjectAudioMusic
-key image TMP!ActBGM_Unused_filter.png #FOR DEVELOPMENT ONLY! Needs to be removed before releasing the mod.
-
-#keys browserFilterButtonGraphic
-#	AssetBrowserGraphics!0xE2C3FF22.png # Normal
-#	AssetBrowserGraphics!0xE2C3FF23.png # Disabled
-#	AssetBrowserGraphics!0xE2C3FF21.png # Highlighted
-#	AssetBrowserGraphics!0xE2C3FF22.png # Act
-#	AssetBrowserGraphics!0xE2C3FF20.png # On Normal
-#	AssetBrowserGraphics!0xE2C3FF23.png # Disabled
-#	AssetBrowserGraphics!0xE2C3FF27.png # On Highlighted
-#	AssetBrowserGraphics!0xE2C3FF20.png # On Act
-#	AssetBrowserGraphics!0xE2C3FF23.png # Disabled
-#end
 
 key browserFilterData ActBGM_Unused
 

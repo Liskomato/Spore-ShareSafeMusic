@@ -1,7 +1,6 @@
 key parent AssetBrowserFilter!ActBGM_filter_Template.prop
 
 key browserFilterButtonAtlasedIconID 0xFFFFFFFF.FixedObjectAudioNote
-key image TMP!ActBGM_Soundtrack_filter.png #FOR DEVELOPMENT ONLY! Needs to be removed before releasing the mod.
 
 texts browserFilterName
 	(ShareSafeMusic_Filters!ActBGM_Soundtrack) "Act BGM - Soundtrack"

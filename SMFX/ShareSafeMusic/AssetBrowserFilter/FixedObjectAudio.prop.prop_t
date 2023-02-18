@@ -3,7 +3,6 @@
 key parent AssetBrowserFilter!FixedObjectTemplate.prop
 
 key browserFilterButtonAtlasedIconID 0x41464100!AdventureFilterButtons
-key image TMP!filter.png #FOR DEVELOPMENT ONLY! Needs to be removed before releasing the mod.
 
 keys browserFilterChildrenFilters
 	FixedObjectAudioCrowd
@@ -14,7 +13,7 @@ keys browserFilterChildrenFilters
 	FixedObjectAudioOneshot
 	
 	ActBGM_filter
-	ActBGM_filter_Test
+	#ActBGM_filter_Test
 end
 
 texts browserFilterName

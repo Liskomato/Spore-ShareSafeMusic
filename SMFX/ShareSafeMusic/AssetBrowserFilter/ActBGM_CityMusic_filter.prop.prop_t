@@ -1,19 +1,6 @@
 key parent AssetBrowserFilter!ActBGM_filter_Template.prop
 
 key browserFilterButtonAtlasedIconID 0xFFFFFFFF.CityHall
-key image TMP!ActBGM_CityMusic_filter.png #FOR DEVELOPMENT ONLY! Needs to be removed before releasing the mod.
-
-#keys browserFilterButtonGraphic
-#	AssetBrowserGraphics!0x9D05E9D3.png # Normal
-#	AssetBrowserGraphics!0x9D05E9D2.png # Disabled
-#	AssetBrowserGraphics!0x9D05E9D0.png # Highlighted
-#	AssetBrowserGraphics!0x9D05E9D1.png # Act
-#	AssetBrowserGraphics!0x9D05E9D6.png # On Normal
-#	AssetBrowserGraphics!0x9D05E9D2.png # Disabled
-#	AssetBrowserGraphics!0x9D05E9D7.png # On Highlighted
-#	AssetBrowserGraphics!0x9D05E9D4.png # On Act
-#	AssetBrowserGraphics!0x9D05E9D2.png # Disabled
-#end
 
 texts browserFilterName
 	(ShareSafeMusic_Filters!ActBGM_CityMusic) "Act BGM - Anthems"

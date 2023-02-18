@@ -1,19 +1,6 @@
 key parent AssetBrowserFilter!ActBGM_filter_Template.prop
 
 key browserFilterButtonAtlasedIconID 0xFFFFFFFF.CreatureSpace
-key image TMP!ActBGM_CityMusic_SPG_filter.png #FOR DEVELOPMENT ONLY! Needs to be removed before releasing the mod.
-
-#keys browserFilterButtonGraphic
-#	AssetBrowserGraphics!0x1EDDF989.png # Normal
-#	AssetBrowserGraphics!0x1EDDF988.png # Disabled
-#	AssetBrowserGraphics!0x1EDDF98A.png # Highlighted
-#	AssetBrowserGraphics!0x1EDDF98B.png # Act
-#	AssetBrowserGraphics!0x1EDDF98C.png # On Normal
-#	AssetBrowserGraphics!0x1EDDF988.png # Disabled
-#	AssetBrowserGraphics!0x1EDDF98D.png # On Highlighted
-#	AssetBrowserGraphics!0x1EDDF98E.png # On Act
-#	AssetBrowserGraphics!0x1EDDF988.png # Disabled
-#end
 
 key browserFilterData ActBGM_CityMusic_SPG
 

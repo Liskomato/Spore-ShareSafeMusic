@@ -1,7 +1,6 @@
 key parent AssetBrowserFilter!ActBGM_filter_Template.prop
 
 key browserFilterButtonAtlasedIconID 0xFFFFFFFF.FixedObjectAudioEnvironment
-key image TMP!ActBGM_Ambience_filter.png #FOR DEVELOPMENT ONLY! Needs to be removed before releasing the mod.
 
 key browserFilterData ActBGM_Ambience
 

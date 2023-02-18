@@ -1,19 +1,6 @@
 key parent AssetBrowserFilter!ActBGM_filter_Template.prop
 
 key browserFilterButtonAtlasedIconID 0xFFFFFFFF.ScenarioPlayable
-key image TMP!ActBGM_filter.png #FOR DEVELOPMENT ONLY! Needs to be removed before releasing the mod.
-
-#keys browserFilterButtonGraphic
-#	AssetBrowserGraphics!0x44089084.png # Normal
-#	AssetBrowserGraphics!0xDBABA2F5.png # Disabled
-#	AssetBrowserGraphics!0x15AE76C2.png # Highlighted
-#	AssetBrowserGraphics!0x18AE7B09.png # Act
-#	AssetBrowserGraphics!0x1CDF1A82.png # On Normal
-#	AssetBrowserGraphics!0xDBABA2F5.png # Disabled
-#	AssetBrowserGraphics!0x1CDF1A82.png # On Highlighted
-#	AssetBrowserGraphics!0x44089084.png # On Act
-#	AssetBrowserGraphics!0xDBABA2F5.png # Disabled
-#end
 
 key browserFilterData ActBGM
 
