@@ -1,0 +1,53 @@
+0x00000000 Share-Safe Music
+0x00000001 Akt Hintergrundmusik
+
+# ActBGM_CityMusic
+0x2D97684C Hymnen
+
+# ActBGM_CityMusic_CVG
+0xE780CFD7 Stadt Hymnen
+
+# ActBGM_CityMusic_CVG_Military
+0xC65D2E37 Militärische Stadt Hymnen
+
+# ActBGM_CityMusic_CVG_Economic
+0xAAB905C9 Wirtschaftliche Stadt Hymnen
+
+# ActBGM_CityMusic_CVG_Religious
+0x18905463 Religiöse Stadt Hymnen
+
+# ActBGM_CityMusic_SPG
+0xEDA97BF5 Außerirdische Hymnen
+
+# ActBGM_Oneshot
+0x16A0E096 Oneshot
+
+# ActBGM_Cinematics
+0xFAE13A84 Zwischensequenzen
+
+# ActBGM_Soundtrack
+0xEFE09760 Soundtrack
+
+# ActBGM_Soundtrack_GGE
+0xF7520A7E Galaxie
+
+# ActBGM_Soundtrack_EDI
+0xF44D885D Designer
+
+# ActBGM_Soundtrack_CLG
+0xD05C5A75 Zellenphase
+
+# ActBGM_Soundtrack_CRG
+0xE25C760F Kreaturenphase
+
+# ActBGM_Soundtrack_TRG
+0xE476BD6C Stammesphase
+
+# ActBGM_Soundtrack_CVG
+0xE65C7CD3 Zivilisationsphase
+
+# ActBGM_Soundtrack_SPG
+0xE4838899 Weltraumphase
+
+# ActBGM_Ambience
+0x8B306262 Ambiente
