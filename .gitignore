@@ -1,3 +1,6 @@
 
 SMFX/ShareSafeMusic/config.properties
 *.properties
+*.package
+*.sporemod
+*.zip
