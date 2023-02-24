@@ -1,6 +1,6 @@
 key parent PaletteItems!ActBGM_Unused_parent.prop
 
-uint32 adventureMusicId 0x5492AC69
+uint32 adventureMusicId hash(ladonna_loop)
 
 key modelMeshLOD0 EP1_TerrainIcons!0x937B42A1.rw4
 key paletteItemPlacedAsset CivicObjects!ep1_audioobject_music.cPlaceableSound

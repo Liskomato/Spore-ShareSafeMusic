@@ -8,5 +8,5 @@ key paletteItemPlacedAsset CivicObjects!ep1_audioobject_music.cPlaceableSound
 texts sporepediaName
 	(ShareSafeMusic_Props!0x64) "Adventure Editor"
 end
-key sporepediaBackdropImage AssetBrowserGraphics!0x315CBC7E.png
+key sporepediaBackdropImage AssetBrowserGraphics!Backdrop_GalacticAdventure.png
 bool sporepediaShow true
