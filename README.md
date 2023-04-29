@@ -1,5 +1,8 @@
 ![Share-Safe Music](ShareSafeMusic.png)
 # Share-Safe Music
+
+**Download latest release here:** https://github.com/Liskomato/Spore-ShareSafeMusic/releases/latest
+
 Co-developed by Liskomato and 0KepOnline. Adds 209 new audio tracks from Spore and Galactic Adventures to be selectable as act background music in the Adventure Editor. All of the music tracks found in this mod should work in adventures without the mod installed.
 
 CAUTION: Some of the audio tracks included with the mod will not loop. Be aware of that.
