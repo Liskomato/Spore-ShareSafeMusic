@@ -1,216 +1,216 @@
-0x00000000 Alien - Ahh-ha / Reue
-0x00000001 Alien - Konzentration
-0x00000002 Alien - Boop Beep / Übertragung
-0x00000003 Alien - Blubber / Harmonie
-0x00000004 Alien - Brianspear / Verwirrung
-0x00000005 Alien - Fabrik / Verdacht
-0x00000006 Alien - Ahnung
-0x00000007 Alien - Kalimba 1
-0x00000008 Alien - Kalimba 2 / Tagträumen
-0x00000009 Alien - Melancholie / Reminiszenz
-0x0000000a Alien - Intrigen
-0x0000000b Alien - Nachdenklich
-0x0000000c Alien - Geduld
-0x0000000d Alien - Die Grox
-0x0000000e Alien - Dubiös
-0x0000000f Alien - Entdeckung
-0x00000010 Alien - Zufälliger Beat
-0x00000011 Alien - Seemannslied / Meditation
-0x00000012 Alien - Hirte / Misstrauen
-0x00000013 Alien - Anfall / Wunderlich
-0x00000014 Alien - Unterwelt / Instabil
-0x00000015 Alien - Schläger / Fokus
-0x00000016 Aufstrebende Helden
-0x00000017 Sting - Gehirn-Upgrade
-0x00000018 Unterwasser-Ambiente 2
-0x00000019 Unterwasser-Ambiente 1
-0x0000001a Unterwasser-Ambiente 4
-0x0000001b Sting - Landfall
-0x0000001c Weg zur Empfindung
-0x0000001d Beute
-0x0000001e Sting - Zellenzimbel
-0x0000001f Zellen-Designer Baumodus
-0x00000020 Zellen-Designer Bemalen-Modus
-0x00000021 Zellenphase 02
-0x00000022 Zellenphase 03
-0x00000023 Zellenphase 04
-0x00000024 Zellenphase 05
-0x00000025 Zellenphase 06
-0x00000026 Zellenphase 07
-0x00000027 Zellenphase 08
-0x00000028 Zellenphase 09
-0x00000029 Zellenphase 10
-0x0000002a Zellenphase 11
-0x0000002b Zellenphase 01
-0x0000002c Unterwasser-Ambiente 3
-0x0000002d Sting - Totemfall / Eine Große Statue
-0x0000002e Sting - Willkommen Auf Der Welt, Kleiner!
-0x0000002f Sting - Eigene Hütte Zerstört / Sporische Inquisition
-0x00000030 Sting - Unsere Ersten Nahcbarn
-0x00000031 Sting - Stammes-Upgrade / Unser Land Gedeiht
-0x00000032 Sting - Stammesstart / Ein Dach Über Dein Kopf
-0x00000033 Sting - Abenteuer Tod 1
-0x00000034 Sting - Abenteuer Tod 2
-0x00000035 Sting - Abenteuer Verloren 1
-0x00000036 Sting - Abenteuer Verloren 2
-0x00000037 Sting - Abenteuer Verloren 3
-0x00000038 Sting - Abenteuer Verloren 4
-0x00000039 Sting - Abenteuer Beginn 1
-0x0000003a Sting - Abenteuer Beginn 2
-0x0000003b Sting - Abenteuer Beginn 3
-0x0000003c Sting - Abenteuer Beginn 4
-0x0000003d Sting - Abenteuer Beginn 5
-0x0000003e Sting - Abenteuer Beginn 6
-0x0000003f Sting - Abenteuer Beginn 7
-0x00000040 Sting - Abenteuer Geschafft 1
-0x00000041 Sting - Abenteuer Geschafft 2
-0x00000042 Sting - Abenteuer Geschafft 3
-0x00000043 Sting - Abenteuer Geschafft 4
-0x00000044 Sting - Wirtschaftliche Übernahme
-0x00000045 Sting - Militärische Übernahme
-0x00000046 Sting - Religiöse Übernahme
-0x00000047 Stadt - Alien / Drohende Macht
-0x00000048 Stadt - Alien Techno / Vorbereitung Auf dDen Krieg
-0x00000049 Stadt - Coolio / Reichhaltige Entspannung
-0x0000004a Stadt - Drogenabhängig / Der Dealer-Shuffle
-0x0000004b Stadt - Orientalisch / Gesang des Zeloten
-0x0000004c Stadt - Fahrstuhl / Kaufmanns Walzer
-0x0000004d Stadt - Mächtige Stadt
-0x0000004e Stadt - Nachbar
-0x0000004f Stadt - Tibetisch / Geistlicher Chor
-0x00000050 Stadt - Lob Spode
-0x00000051 Zivilisationsausstatter Baumodus
-0x00000052 Zivilisationsausstatter Bemalen-Modus
-0x00000053 Sting - Verlorene Zivilisation / Das Ende Eines Jahrtausends
-0x00000054 Religiöse Konversation 1
-0x00000055 Religiöse Konversation 2
-0x00000056 Religiöse Konversation 3
-0x00000057 Heiliges Konzert
-0x00000058 Sting - Allianz Aufgelöst
-0x00000059 Sting - Friedenserklärung
-0x0000005a Sting - Kriegserklärung
-0x0000005b Sting - Allianz Gegründet
-0x0000005c Frühe Kreaturen Ambiente
-0x0000005d Sting - Nest Beanspruchung
-0x0000005e Sting - Migration
-0x0000005f Also Sprach Zarathustra
-0x00000060 Also Sprach, Uh...
-0x00000061 Ah, Zarathustra!
-0x00000062 Innenstadtchaos
-0x00000063 Kapitänsausstatter
-0x00000064 Abenteuerersteller
-0x00000065 GA Intro
-0x00000066 Galaktische Ambiente
-0x00000067 Ein Universum In Deinen Händen
-0x00000068 Dein Eigenes Persönliches Universum (Galaxie Menü)
-0x00000069 Der Planet Wird Gleich Erschüttert! (Zellenphase Intro)
-0x0000006a Array von Blumen
-0x0000006b Harvester Editor
-0x0000006c Glockenspiel Der Heilung
-0x0000006d Schwerelos Treiben (Interstellar Space)
-0x0000006e Spore Intro
-0x0000006f Loadtering 1
-0x00000070 Loadtering 2
-0x00000071 Sting - Paarung 6
-0x00000072 Sting - Paarung 7
-0x00000073 Sting - Paarung 8
-0x00000074 Sting - Paarung 9
-0x00000075 Berg Dampf
-0x00000076 Neutrale Ambiente
-0x00000077 Zerstörung und Plünderung
-0x00000078 Stammesraub
-0x00000079 Rigoletto
-0x0000007a Sting - Wirtschaftliche Eroberung
-0x0000007b Sting - Militärisches Eroberung
-0x0000007c Sting - Religiöse Eroberung
-0x0000007d Sting - Raus Aus Dem Dreck (Zivilisation Intro)
-0x0000007e Dervish
-0x0000007f Sting - Globaler Markt
-0x00000080 Sting - Interkontinentalrakete
-0x00000081 Sting - Alle Städte Verloren
-0x00000082 Sting - Messianische Erhebung
-0x00000083 Gadget-Bomben-Vorbereitung 1
-0x00000084 Gadget-Bomben-Vorbereitung 
-0x00000085 Gadget-Bombe Bewaffnet 1
-0x00000086 Gadget-Bombe Bewaffnet 2
-0x00000087 Start der Gadget-Bombe (with SFX)
-0x00000088 Start der Gadget-Bombe
-0x00000089 Funkkommunikation
-0x0000008a Alarm - Luftangriff
-0x0000008b Sting - Über Den Himmel Hinaus Reisen
-0x0000008c Sting - Über Das Land Hinaus Reisen
-0x0000008d Pass Auf Oben Auf!
-0x0000008e Sinn Des Lebens 1
-0x0000008f Sinn Des Lebens 2
-0x00000090 Glückliche Kolonie
-0x00000091 Beruhigendes Lied Intro
-0x00000092 Beruhigendes Lied 1
-0x00000093 Beruhigendes Lied 2
-0x00000094 Weltraumkommunikation
-0x00000095 Sting - Feindliches Territorium
-0x00000096 Sting - Mission Erfolgreich!
-0x00000097 Sting - Deterraformation
-0x00000098 Sting - Terraformation
-0x00000099 Zeitfluss
-0x0000009a Sting - Stammesüberfall-Gong
-0x0000009b Sting - UFO
-0x0000009c Sting - UFO Abflug
-0x0000009d Sporepedia 1
-0x0000009e Sporepedia 3
-0x0000009f Sporepedia 2
-0x000000a0 Das Gewebe des Raums (Sonnensystem)
-0x000000a1 Kolonieausstatter Baumodus
-0x000000a2 Kolonieausstatter Bemalen-Modus
-0x000000a3 Ereignishorizont
-0x000000a4 Schwarzes Loch
-0x000000a5 Ende Der Galaktischen Kriegsführung
-0x000000a6 Galaktischer Kriegsführungs-Gong 2
-0x000000a7 Galaktischer Kriegsführungs-Gong 3
-0x000000a8 Galaktische Kriegsführung 2
-0x000000a9 Galaktische Kriegsführung 3
-0x000000aa Galaktische Kriegsführung 1
-0x000000ab Sting - Wirtschaftliche Gefangennahme
-0x000000ac Sting - Neue Kolonie
-0x000000ad Sting - Militärische Gefangennahme
-0x000000ae Hupe - Bestienmeister
-0x000000af Hupe - Fliegender Fisch
-0x000000b0 Hypnotisiert
-0x000000b1 Sting - Herde Beschwören
-0x000000b2 Sting - Erfrischender Sturm
-0x000000b3 Sting - Sirenenlied
-0x000000b4 Sting - Neugeborenes
-0x000000b5 Stammes Lagerfeuerlied
-0x000000b6 Sting - Zurück In Den Abgrund
-0x000000b7 Die Wildnis Erinnern
-0x000000b8 Schwindel!
-0x000000b9 Sting - Ein Neuer Plan
-0x000000ba Sting - Eine Neue Halle
-0x000000bb Stammesausstatter Baumodus
-0x000000bc Stammesausstatter Bemalen-Modus
-0x000000bd Weltraumausstatter Baumodus
-0x000000be Weltraumausstatter Bemalen-Modus
-0x000000bf Glücksstrahl
-0x000000c0 Hupe - UFO 1
-0x000000c1 Hupe - UFO 2
-0x000000c2 Hupe - UFO 3
-0x000000c3 Hupe - UFO 4
-0x000000c4 Wirtschaftlicher-Designer Baumodus
-0x000000c5 Wirtschaftlicher-Designer Bemalen-Modus
-0x000000c6 Fahrzeug-Designer Baumodus
-0x000000c7 Fahrzeug-Designer Bemalen-Modus
-0x000000c8 Religiöser-Designer Baumodus
-0x000000c9 Religiöser-Designer Bemalen-Modus
-0x000000ca Galaktischer Kriegsführungs-Gong 1
-0x000000cb Gebäude-Designer Baumodus
-0x000000cc Gebäude-Designer Bemalen-Modus
-0x000000cd Harmonisches Lied
-0x000000ce Zwischensequenz Wuusch
-0x000000cf Türklingel
-0x000000d0 Statisches Rauschen
-0x000000d1 Bakterien Phase 1
-0x000000d2 Bakterien Phase 2
-0x000000d3 Bakterien Phase 3
-0x000000d4 Huhn
-0x000000d5 Kuh
-0x000000d6 Herzklopfen
-0x000000d7 Fliegeralarm
+0x0 Alien - Ahh-ha / Reue
+0x1 Alien - Konzentration
+0x2 Alien - Boop Beep / Übertragung
+0x3 Alien - Blubber / Harmonie
+0x4 Alien - Brianspear / Verwirrung
+0x5 Alien - Fabrik / Verdacht
+0x6 Alien - Ahnung
+0x7 Alien - Kalimba 1
+0x8 Alien - Kalimba 2 / Tagträumen
+0x9 Alien - Melancholie / Reminiszenz
+0xa Alien - Intrigen
+0xb Alien - Nachdenklich
+0xc Alien - Geduld
+0xd Alien - Die Grox
+0xe Alien - Dubiös
+0xf Alien - Entdeckung
+0x10 Alien - Zufälliger Beat
+0x11 Alien - Seemannslied / Meditation
+0x12 Alien - Hirte / Misstrauen
+0x13 Alien - Anfall / Wunderlich
+0x14 Alien - Unterwelt / Instabil
+0x15 Alien - Schläger / Fokus
+0x16 Aufstrebende Helden
+0x17 Sting - Gehirn-Upgrade
+0x18 Unterwasser-Ambiente 2
+0x19 Unterwasser-Ambiente 1
+0x1a Unterwasser-Ambiente 4
+0x1b Sting - Landfall
+0x1c Weg zur Empfindung
+0x1d Beute
+0x1e Sting - Zellenzimbel
+0x1f Zellen-Designer Baumodus
+0x20 Zellen-Designer Bemalen-Modus
+0x21 Zellenphase 02
+0x22 Zellenphase 03
+0x23 Zellenphase 04
+0x24 Zellenphase 05
+0x25 Zellenphase 06
+0x26 Zellenphase 07
+0x27 Zellenphase 08
+0x28 Zellenphase 09
+0x29 Zellenphase 10
+0x2a Zellenphase 11
+0x2b Zellenphase 01
+0x2c Unterwasser-Ambiente 3
+0x2d Sting - Totemfall / Eine Große Statue
+0x2e Sting - Willkommen Auf Der Welt, Kleiner!
+0x2f Sting - Eigene Hütte Zerstört / Sporische Inquisition
+0x30 Sting - Unsere Ersten Nahcbarn
+0x31 Sting - Stammes-Upgrade / Unser Land Gedeiht
+0x32 Sting - Stammesstart / Ein Dach Über Dein Kopf
+0x33 Sting - Abenteuer Tod 1
+0x34 Sting - Abenteuer Tod 2
+0x35 Sting - Abenteuer Verloren 1
+0x36 Sting - Abenteuer Verloren 2
+0x37 Sting - Abenteuer Verloren 3
+0x38 Sting - Abenteuer Verloren 4
+0x39 Sting - Abenteuer Beginn 1
+0x3a Sting - Abenteuer Beginn 2
+0x3b Sting - Abenteuer Beginn 3
+0x3c Sting - Abenteuer Beginn 4
+0x3d Sting - Abenteuer Beginn 5
+0x3e Sting - Abenteuer Beginn 6
+0x3f Sting - Abenteuer Beginn 7
+0x40 Sting - Abenteuer Geschafft 1
+0x41 Sting - Abenteuer Geschafft 2
+0x42 Sting - Abenteuer Geschafft 3
+0x43 Sting - Abenteuer Geschafft 4
+0x44 Sting - Wirtschaftliche Übernahme
+0x45 Sting - Militärische Übernahme
+0x46 Sting - Religiöse Übernahme
+0x47 Stadt - Alien / Drohende Macht
+0x48 Stadt - Alien Techno / Vorbereitung Auf dDen Krieg
+0x49 Stadt - Coolio / Reichhaltige Entspannung
+0x4a Stadt - Drogenabhängig / Der Dealer-Shuffle
+0x4b Stadt - Orientalisch / Gesang des Zeloten
+0x4c Stadt - Fahrstuhl / Kaufmanns Walzer
+0x4d Stadt - Mächtige Stadt
+0x4e Stadt - Nachbar
+0x4f Stadt - Tibetisch / Geistlicher Chor
+0x50 Stadt - Lob Spode
+0x51 Zivilisationsausstatter Baumodus
+0x52 Zivilisationsausstatter Bemalen-Modus
+0x53 Sting - Verlorene Zivilisation / Das Ende Eines Jahrtausends
+0x54 Religiöse Konversation 1
+0x55 Religiöse Konversation 2
+0x56 Religiöse Konversation 3
+0x57 Heiliges Konzert
+0x58 Sting - Allianz Aufgelöst
+0x59 Sting - Friedenserklärung
+0x5a Sting - Kriegserklärung
+0x5b Sting - Allianz Gegründet
+0x5c Frühe Kreaturen Ambiente
+0x5d Sting - Nest Beanspruchung
+0x5e Sting - Migration
+0x5f Also Sprach Zarathustra
+0x60 Also Sprach, Uh...
+0x61 Ah, Zarathustra!
+0x62 Innenstadtchaos
+0x63 Kapitänsausstatter
+0x64 Abenteuerersteller
+0x65 GA Intro
+0x66 Galaktische Ambiente
+0x67 Ein Universum In Deinen Händen
+0x68 Dein Eigenes Persönliches Universum (Galaxie Menü)
+0x69 Der Planet Wird Gleich Erschüttert! (Zellenphase Intro)
+0x6a Array von Blumen
+0x6b Harvester Editor
+0x6c Glockenspiel Der Heilung
+0x6d Schwerelos Treiben (Interstellar Space)
+0x6e Spore Intro
+0x6f Loadtering 1
+0x70 Loadtering 2
+0x71 Sting - Paarung 6
+0x72 Sting - Paarung 7
+0x73 Sting - Paarung 8
+0x74 Sting - Paarung 9
+0x75 Berg Dampf
+0x76 Neutrale Ambiente
+0x77 Zerstörung und Plünderung
+0x78 Stammesraub
+0x79 Rigoletto
+0x7a Sting - Wirtschaftliche Eroberung
+0x7b Sting - Militärisches Eroberung
+0x7c Sting - Religiöse Eroberung
+0x7d Sting - Raus Aus Dem Dreck (Zivilisation Intro)
+0x7e Dervish
+0x7f Sting - Globaler Markt
+0x80 Sting - Interkontinentalrakete
+0x81 Sting - Alle Städte Verloren
+0x82 Sting - Messianische Erhebung
+0x83 Gadget-Bomben-Vorbereitung 1
+0x84 Gadget-Bomben-Vorbereitung 
+0x85 Gadget-Bombe Bewaffnet 1
+0x86 Gadget-Bombe Bewaffnet 2
+0x87 Start der Gadget-Bombe (with SFX)
+0x88 Start der Gadget-Bombe
+0x89 Funkkommunikation
+0x8a Alarm - Luftangriff
+0x8b Sting - Über Den Himmel Hinaus Reisen
+0x8c Sting - Über Das Land Hinaus Reisen
+0x8d Pass Auf Oben Auf!
+0x8e Sinn Des Lebens 1
+0x8f Sinn Des Lebens 2
+0x90 Glückliche Kolonie
+0x91 Beruhigendes Lied Intro
+0x92 Beruhigendes Lied 1
+0x93 Beruhigendes Lied 2
+0x94 Weltraumkommunikation
+0x95 Sting - Feindliches Territorium
+0x96 Sting - Mission Erfolgreich!
+0x97 Sting - Deterraformation
+0x98 Sting - Terraformation
+0x99 Zeitfluss
+0x9a Sting - Stammesüberfall-Gong
+0x9b Sting - UFO
+0x9c Sting - UFO Abflug
+0x9d Sporepedia 1
+0x9e Sporepedia 3
+0x9f Sporepedia 2
+0xa0 Das Gewebe des Raums (Sonnensystem)
+0xa1 Kolonieausstatter Baumodus
+0xa2 Kolonieausstatter Bemalen-Modus
+0xa3 Ereignishorizont
+0xa4 Schwarzes Loch
+0xa5 Ende Der Galaktischen Kriegsführung
+0xa6 Galaktischer Kriegsführungs-Gong 2
+0xa7 Galaktischer Kriegsführungs-Gong 3
+0xa8 Galaktische Kriegsführung 2
+0xa9 Galaktische Kriegsführung 3
+0xaa Galaktische Kriegsführung 1
+0xab Sting - Wirtschaftliche Gefangennahme
+0xac Sting - Neue Kolonie
+0xad Sting - Militärische Gefangennahme
+0xae Hupe - Bestienmeister
+0xaf Hupe - Fliegender Fisch
+0xb0 Hypnotisiert
+0xb1 Sting - Herde Beschwören
+0xb2 Sting - Erfrischender Sturm
+0xb3 Sting - Sirenenlied
+0xb4 Sting - Neugeborenes
+0xb5 Stammes Lagerfeuerlied
+0xb6 Sting - Zurück In Den Abgrund
+0xb7 Die Wildnis Erinnern
+0xb8 Schwindel!
+0xb9 Sting - Ein Neuer Plan
+0xba Sting - Eine Neue Halle
+0xbb Stammesausstatter Baumodus
+0xbc Stammesausstatter Bemalen-Modus
+0xbd Weltraumausstatter Baumodus
+0xbe Weltraumausstatter Bemalen-Modus
+0xbf Glücksstrahl
+0xc0 Hupe - UFO 1
+0xc1 Hupe - UFO 2
+0xc2 Hupe - UFO 3
+0xc3 Hupe - UFO 4
+0xc4 Wirtschaftlicher-Designer Baumodus
+0xc5 Wirtschaftlicher-Designer Bemalen-Modus
+0xc6 Fahrzeug-Designer Baumodus
+0xc7 Fahrzeug-Designer Bemalen-Modus
+0xc8 Religiöser-Designer Baumodus
+0xc9 Religiöser-Designer Bemalen-Modus
+0xca Galaktischer Kriegsführungs-Gong 1
+0xcb Gebäude-Designer Baumodus
+0xcc Gebäude-Designer Bemalen-Modus
+0xcd Harmonisches Lied
+0xce Zwischensequenz Wuusch
+0xcf Türklingel
+0xd0 Statisches Rauschen
+0xd1 Bakterien Phase 1
+0xd2 Bakterien Phase 2
+0xd3 Bakterien Phase 3
+0xd4 Huhn
+0xd5 Kuh
+0xd6 Herzklopfen
+0xd7 Fliegeralarm

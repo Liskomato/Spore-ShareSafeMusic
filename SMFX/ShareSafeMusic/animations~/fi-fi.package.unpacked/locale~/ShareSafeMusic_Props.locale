@@ -1,216 +1,216 @@
-0x00000000 Avaruusolio - Sääli
-0x00000001 Avaruusolio - Meditaatio
-0x00000002 Avaruusolio - Lähetys
-0x00000003 Avaruusolio - Harmonia
-0x00000004 Avaruusolio - Hämmennys
-0x00000005 Avaruusolio - Epäilys
-0x00000006 Avaruusolio - Aavistus
-0x00000007 Avaruusolio - Kalimba 1
-0x00000008 Avaruusolio - Kalimba 2
-0x00000009 Avaruusolio - Melankolia
-0x0000000a Avaruusolio - Juonittelu
-0x0000000b Avaruusolio - Ajattelevainen
-0x0000000c Avaruusolio - Kärsivällinen
-0x0000000d Avaruusolio - Kropo
-0x0000000e Avaruusolio - Kyseenalainen
-0x0000000f Avaruusolio - Löytö
-0x00000010 Avaruusolio - Satunnaisrytmi
-0x00000011 Avaruusolio - Merimies
-0x00000012 Avaruusolio - Paimen
-0x00000013 Avaruusolio - Eriskummallinen
-0x00000014 Avaruusolio - Epävakaa
-0x00000015 Avaruusolio - Kohde
-0x00000016 Kunnianhimoiset sankarit
-0x00000017 Tunnus - Aivojen kasvu
-0x00000018 Merenalaista tunnelmaa 2
-0x00000019 Merenalaista tunnelmaa 1
-0x0000001a Merenalaista tunnelmaa 4
-0x0000001b Tunnus - Merestä maalle
-0x0000001c Kohti tietoisuutta
-0x0000001d Saalis
-0x0000001e Tunnus - Solusymbaali
-0x0000001f Solueditori - Muokkaus
-0x00000020 Solueditori - Maalaus
-0x00000021 Solupeli 02
-0x00000022 Solupeli 03
-0x00000023 Solupeli 04
-0x00000024 Solupeli 05
-0x00000025 Solupeli 06
-0x00000026 Solupeli 07
-0x00000027 Solupeli 08
-0x00000028 Solupeli 09
-0x00000029 Solupeli 10
-0x0000002a Solupeli 11
-0x0000002b Solupeli 01
-0x0000002c Merenalaista tunnelmaa 3
-0x0000002d Tunnus - Korkea patsas
-0x0000002e Tunnus - Tervetuloa maailmaan, pikkuinen!
-0x0000002f Tunnus - Oman majan tuho
-0x00000030 Tunnus - Ensimmäiset naapurit
-0x00000031 Tunnus - Heimon loisto
-0x00000032 Tunnus - Heimon alku
-0x00000033 Tunnus - Seikkailukuolema 1
-0x00000034 Tunnus - Seikkailukuolema 2
-0x00000035 Tunnus - Seikkailun epäonnistuminen 1
-0x00000036 Tunnus - Seikkailun epäonnistuminen 2
-0x00000037 Tunnus - Seikkailun epäonnistuminen 3
-0x00000038 Tunnus - Seikkailun epäonnistuminen 4
-0x00000039 Tunnus - Seikkailun alku 1
-0x0000003a Tunnus - Seikkailun alku 2
-0x0000003b Tunnus - Seikkailun alku 3
-0x0000003c Tunnus - Seikkailun alku 4
-0x0000003d Tunnus - Seikkailun alku 5
-0x0000003e Tunnus - Seikkailun alku 6
-0x0000003f Tunnus - Seikkailun alku 7
-0x00000040 Tunnus - Seikkailun voitto 1
-0x00000041 Tunnus - Seikkailun voitto 2
-0x00000042 Tunnus - Seikkailun voitto 3
-0x00000043 Tunnus - Seikkailun voitto 4
-0x00000044 Tunnus - Taloudellinen valtaus
-0x00000045 Tunnus - Sotilaallinen valtaus
-0x00000046 Tunnus - Uskonnollinen valtaus
-0x00000047 Kaupunki - Muukalainen
-0x00000048 Kaupunki - Tekno
-0x00000049 Kaupunki - Rento
-0x0000004a Kaupunki - Diili
-0x0000004b Kaupunki - Fanaatikon laulu
-0x0000004c Kaupunki - Markkinavalssi
-0x0000004d Kaupunki - Mahtava
-0x0000004e Kaupunki - Naapuri
-0x0000004f Kaupunki - Henkikuoro
-0x00000050 Kaupunki - Paten palvelus
-0x00000051 Sivilisaatioasustamo - Muokkaus
-0x00000052 Sivilisaatioasustamo - Maalaus
-0x00000053 Tunnus - Hävinnyt kansakunta
-0x00000054 Käännytystyö 1
-0x00000055 Käännytystyö 2
-0x00000056 Käännytystyö 3
-0x00000057 Juhlakonsertti
-0x00000058 Tunnus - Hajonnut liittouma
-0x00000059 Tunnus - Rauhanjulistus
-0x0000005a Tunnus - Sodanjulistus
-0x0000005b Tunnus - Liittouma
-0x0000005c Alkuotustunnelmaa
-0x0000005d Tunnus - Uusi pesä
-0x0000005e Tunnus - Muutto
-0x0000005f Näin puhui Zarathustra
-0x00000060 Näin puhui, öh...
-0x00000061 Ai niin, Zarathustra!
-0x00000062 Stadimeininkiä
-0x00000063 Kapteenin asustamo
-0x00000064 Seikkailueditori
-0x00000065 Galaksissa kuhisee
-0x00000066 Galaktista tunnelmaa
-0x00000067 Universumi käsissäsi
-0x00000068 Oma Henkilökohtainen Universumisi
-0x00000069 Kaiken alku ja komeetta
-0x0000006a Kukkakimppu
-0x0000006b Keruunkone-editori
-0x0000006c Parannuksen kellot
-0x0000006d Tähtienvälinen avaruus
-0x0000006e Kaiken maailman itiöt (Sporen alkutunnus)
-0x0000006f Lataillaan 1
-0x00000070 Lataillaan 2
-0x00000071 Tunnus - Kuhertelu 6
-0x00000072 Tunnus - Kuhertelu 7
-0x00000073 Tunnus - Kuhertelu 8
-0x00000074 Tunnus - Kuhertelu 9
-0x00000075 Vuorihöyry
-0x00000076 Neutraali avaruus
-0x00000077 Kostoretki
-0x00000078 Ryöstöretki
-0x00000079 Rigoletto
-0x0000007a Tunnus - Taloudellinen valloitus
-0x0000007b Tunnus - Sotilaallinen valloitus
-0x0000007c Tunnus - Uskonnollinen valloitus
-0x0000007d Tunnus - Pois maasta
-0x0000007e Diplo-Matti
-0x0000007f Tunnus - Fuusio
-0x00000080 Tunnus - Mannertenvälinen ohjus
-0x00000081 Tunnus - Kaikki kaupungit menetetty
-0x00000082 Tunnus - Messiaan nousu
-0x00000083 Mahtipommin valmistelut 1
-0x00000084 Mahtipommin valmistelut 2
-0x00000085 Mahtipommi ladattu 1
-0x00000086 Mahtipommi ladattu 2
-0x00000087 Mahtipommin laukaisu (äänillä)
-0x00000088 Mahtipommin laukaisu
-0x00000089 Radioyhteys
-0x0000008a Hälytys - Ilmahyökkäys
-0x0000008b Tunnus - Kohti taivaita
-0x0000008c Tunnus - Kohti merta
-0x0000008d Varo ylhäältä!
-0x0000008e Elämän tarkoitus 1
-0x0000008f Elämän tarkoitus 2
-0x00000090 Iloinen siirtokunta
-0x00000091 Tuutulaulun alku
-0x00000092 Tuutulaulu 1
-0x00000093 Tuutulaulu 2
-0x00000094 Avaruuskommunikaatiot
-0x00000095 Tunnus - Vihollisalue
-0x00000096 Tunnus - Tehtävä onnistui!
-0x00000097 Tunnus - Epämaankaltaistus
-0x00000098 Tunnus - Maankaltaistus
-0x00000099 Ajan virta
-0x0000009a Tunnus - Heimohyökkäyskumistin
-0x0000009b Tunnus - UFO saapuu
-0x0000009c Tunnus - UFO lähtee
-0x0000009d Spore-keskus 1
-0x0000009e Spore-keskus 3
-0x0000009f Spore-keskus 2
-0x000000a0 Aurinkokunta
-0x000000a1 Siirtokunnan asustamo - Muokkaus
-0x000000a2 Siirtokunnan asustamo - Maalaus
-0x000000a3 Tapahtumahorisontti
-0x000000a4 Musta aukko
-0x000000a5 Avaruussodan loppu
-0x000000a6 Avaruussota - Kumistin 2
-0x000000a7 Avaruussota - Kumistin 3
-0x000000a8 Avaruussota 2
-0x000000a9 Avaruussota 3
-0x000000aa Avaruussota 1
-0x000000ab Tunnus - Siirtokunta ostettu
-0x000000ac Tunnus - Siirtokunta rakennettu
-0x000000ad Tunnus - Siirtokunta vallattu
-0x000000ae Torvi - Petovaltias
-0x000000af Torvi - Lentokala
-0x000000b0 Hypnotisoitu
-0x000000b1 Tunnus - Parveilukutsu
-0x000000b2 Tunnus - Virkistävä sade
-0x000000b3 Tunnus - Seireeninlaulu
-0x000000b4 Tunnus - Vastasyntynyt
-0x000000b5 Heimotanssi
-0x000000b6 Tunnus - Takaisin maahan
-0x000000b7 Hii-op!
-0x000000b8 Hii-op!
-0x000000b9 Tunnus - Uusi unelma
-0x000000ba Tunnus - Uusi kaupungintalo
-0x000000bb Heimon asustamo - Muokkaus
-0x000000bc Heimon asustamo - Maalaus
-0x000000bd Avaruusaluseditori - Muokkaus
-0x000000be Avaruusaluseditori - Maalaus
-0x000000bf Onnellisuussäde
-0x000000c0 Torvi - Avaruusalus 1
-0x000000c1 Torvi - Avaruusalus 2
-0x000000c2 Torvi - Avaruusalus 3
-0x000000c3 Torvi - Avaruusalus 4
-0x000000c4 Taloudellinen ajoneuvoeditori - Muokkaus
-0x000000c5 Taloudellinen ajoneuvoeditori - Maalaus
-0x000000c6 Sotilaallinen ajoneuvoeditori - Muokkaus
-0x000000c7 Sotilaallinen ajoneuvoeditori - Maalaus
-0x000000c8 Uskonnollinen ajoneuvoeditori - Muokkaus
-0x000000c9 Uskonnollinen ajoneuvoeditori - Maalaus
-0x000000ca Avaruussota - Kumistin 1
-0x000000cb Rakennuseditori - Muokkaus
-0x000000cc Rakennuseditori - Maalaus
-0x000000cd Harmoniahymni
-0x000000ce Kohtaussuhahdus
-0x000000cf Ovikello
-0x000000d0 Staattinen melu
-0x000000d1 Bakteerivaihe 1
-0x000000d2 Bakteerivaihe 2
-0x000000d3 Bakteerivaihe 3
-0x000000d4 Kana
-0x000000d5 Lehmä
-0x000000d6 Sydämenlyönti
-0x000000d7 Ilmahälytys
+0x0 Avaruusolio - Sääli
+0x1 Avaruusolio - Meditaatio
+0x2 Avaruusolio - Lähetys
+0x3 Avaruusolio - Harmonia
+0x4 Avaruusolio - Hämmennys
+0x5 Avaruusolio - Epäilys
+0x6 Avaruusolio - Aavistus
+0x7 Avaruusolio - Kalimba 1
+0x8 Avaruusolio - Kalimba 2
+0x9 Avaruusolio - Melankolia
+0xa Avaruusolio - Juonittelu
+0xb Avaruusolio - Ajattelevainen
+0xc Avaruusolio - Kärsivällinen
+0xd Avaruusolio - Kropo
+0xe Avaruusolio - Kyseenalainen
+0xf Avaruusolio - Löytö
+0x10 Avaruusolio - Satunnaisrytmi
+0x11 Avaruusolio - Merimies
+0x12 Avaruusolio - Paimen
+0x13 Avaruusolio - Eriskummallinen
+0x14 Avaruusolio - Epävakaa
+0x15 Avaruusolio - Kohde
+0x16 Kunnianhimoiset sankarit
+0x17 Tunnus - Aivojen kasvu
+0x18 Merenalaista tunnelmaa 2
+0x19 Merenalaista tunnelmaa 1
+0x1a Merenalaista tunnelmaa 4
+0x1b Tunnus - Merestä maalle
+0x1c Kohti tietoisuutta
+0x1d Saalis
+0x1e Tunnus - Solusymbaali
+0x1f Solueditori - Muokkaus
+0x20 Solueditori - Maalaus
+0x21 Solupeli 02
+0x22 Solupeli 03
+0x23 Solupeli 04
+0x24 Solupeli 05
+0x25 Solupeli 06
+0x26 Solupeli 07
+0x27 Solupeli 08
+0x28 Solupeli 09
+0x29 Solupeli 10
+0x2a Solupeli 11
+0x2b Solupeli 01
+0x2c Merenalaista tunnelmaa 3
+0x2d Tunnus - Korkea patsas
+0x2e Tunnus - Tervetuloa maailmaan, pikkuinen!
+0x2f Tunnus - Oman majan tuho
+0x30 Tunnus - Ensimmäiset naapurit
+0x31 Tunnus - Heimon loisto
+0x32 Tunnus - Heimon alku
+0x33 Tunnus - Seikkailukuolema 1
+0x34 Tunnus - Seikkailukuolema 2
+0x35 Tunnus - Seikkailun epäonnistuminen 1
+0x36 Tunnus - Seikkailun epäonnistuminen 2
+0x37 Tunnus - Seikkailun epäonnistuminen 3
+0x38 Tunnus - Seikkailun epäonnistuminen 4
+0x39 Tunnus - Seikkailun alku 1
+0x3a Tunnus - Seikkailun alku 2
+0x3b Tunnus - Seikkailun alku 3
+0x3c Tunnus - Seikkailun alku 4
+0x3d Tunnus - Seikkailun alku 5
+0x3e Tunnus - Seikkailun alku 6
+0x3f Tunnus - Seikkailun alku 7
+0x40 Tunnus - Seikkailun voitto 1
+0x41 Tunnus - Seikkailun voitto 2
+0x42 Tunnus - Seikkailun voitto 3
+0x43 Tunnus - Seikkailun voitto 4
+0x44 Tunnus - Taloudellinen valtaus
+0x45 Tunnus - Sotilaallinen valtaus
+0x46 Tunnus - Uskonnollinen valtaus
+0x47 Kaupunki - Muukalainen
+0x48 Kaupunki - Tekno
+0x49 Kaupunki - Rento
+0x4a Kaupunki - Diili
+0x4b Kaupunki - Fanaatikon laulu
+0x4c Kaupunki - Markkinavalssi
+0x4d Kaupunki - Mahtava
+0x4e Kaupunki - Naapuri
+0x4f Kaupunki - Henkikuoro
+0x50 Kaupunki - Paten palvelus
+0x51 Sivilisaatioasustamo - Muokkaus
+0x52 Sivilisaatioasustamo - Maalaus
+0x53 Tunnus - Hävinnyt kansakunta
+0x54 Käännytystyö 1
+0x55 Käännytystyö 2
+0x56 Käännytystyö 3
+0x57 Juhlakonsertti
+0x58 Tunnus - Hajonnut liittouma
+0x59 Tunnus - Rauhanjulistus
+0x5a Tunnus - Sodanjulistus
+0x5b Tunnus - Liittouma
+0x5c Alkuotustunnelmaa
+0x5d Tunnus - Uusi pesä
+0x5e Tunnus - Muutto
+0x5f Näin puhui Zarathustra
+0x60 Näin puhui, öh...
+0x61 Ai niin, Zarathustra!
+0x62 Stadimeininkiä
+0x63 Kapteenin asustamo
+0x64 Seikkailueditori
+0x65 Galaksissa kuhisee
+0x66 Galaktista tunnelmaa
+0x67 Universumi käsissäsi
+0x68 Oma Henkilökohtainen Universumisi
+0x69 Kaiken alku ja komeetta
+0x6a Kukkakimppu
+0x6b Keruunkone-editori
+0x6c Parannuksen kellot
+0x6d Tähtienvälinen avaruus
+0x6e Kaiken maailman itiöt (Sporen alkutunnus)
+0x6f Lataillaan 1
+0x70 Lataillaan 2
+0x71 Tunnus - Kuhertelu 6
+0x72 Tunnus - Kuhertelu 7
+0x73 Tunnus - Kuhertelu 8
+0x74 Tunnus - Kuhertelu 9
+0x75 Vuorihöyry
+0x76 Neutraali avaruus
+0x77 Kostoretki
+0x78 Ryöstöretki
+0x79 Rigoletto
+0x7a Tunnus - Taloudellinen valloitus
+0x7b Tunnus - Sotilaallinen valloitus
+0x7c Tunnus - Uskonnollinen valloitus
+0x7d Tunnus - Pois maasta
+0x7e Diplo-Matti
+0x7f Tunnus - Fuusio
+0x80 Tunnus - Mannertenvälinen ohjus
+0x81 Tunnus - Kaikki kaupungit menetetty
+0x82 Tunnus - Messiaan nousu
+0x83 Mahtipommin valmistelut 1
+0x84 Mahtipommin valmistelut 2
+0x85 Mahtipommi ladattu 1
+0x86 Mahtipommi ladattu 2
+0x87 Mahtipommin laukaisu (äänillä)
+0x88 Mahtipommin laukaisu
+0x89 Radioyhteys
+0x8a Hälytys - Ilmahyökkäys
+0x8b Tunnus - Kohti taivaita
+0x8c Tunnus - Kohti merta
+0x8d Varo ylhäältä!
+0x8e Elämän tarkoitus 1
+0x8f Elämän tarkoitus 2
+0x90 Iloinen siirtokunta
+0x91 Tuutulaulun alku
+0x92 Tuutulaulu 1
+0x93 Tuutulaulu 2
+0x94 Avaruuskommunikaatiot
+0x95 Tunnus - Vihollisalue
+0x96 Tunnus - Tehtävä onnistui!
+0x97 Tunnus - Epämaankaltaistus
+0x98 Tunnus - Maankaltaistus
+0x99 Ajan virta
+0x9a Tunnus - Heimohyökkäyskumistin
+0x9b Tunnus - UFO saapuu
+0x9c Tunnus - UFO lähtee
+0x9d Spore-keskus 1
+0x9e Spore-keskus 3
+0x9f Spore-keskus 2
+0xa0 Aurinkokunta
+0xa1 Siirtokunnan asustamo - Muokkaus
+0xa2 Siirtokunnan asustamo - Maalaus
+0xa3 Tapahtumahorisontti
+0xa4 Musta aukko
+0xa5 Avaruussodan loppu
+0xa6 Avaruussota - Kumistin 2
+0xa7 Avaruussota - Kumistin 3
+0xa8 Avaruussota 2
+0xa9 Avaruussota 3
+0xaa Avaruussota 1
+0xab Tunnus - Siirtokunta ostettu
+0xac Tunnus - Siirtokunta rakennettu
+0xad Tunnus - Siirtokunta vallattu
+0xae Torvi - Petovaltias
+0xaf Torvi - Lentokala
+0xb0 Hypnotisoitu
+0xb1 Tunnus - Parveilukutsu
+0xb2 Tunnus - Virkistävä sade
+0xb3 Tunnus - Seireeninlaulu
+0xb4 Tunnus - Vastasyntynyt
+0xb5 Heimotanssi
+0xb6 Tunnus - Takaisin maahan
+0xb7 Hii-op!
+0xb8 Hii-op!
+0xb9 Tunnus - Uusi unelma
+0xba Tunnus - Uusi kaupungintalo
+0xbb Heimon asustamo - Muokkaus
+0xbc Heimon asustamo - Maalaus
+0xbd Avaruusaluseditori - Muokkaus
+0xbe Avaruusaluseditori - Maalaus
+0xbf Onnellisuussäde
+0xc0 Torvi - Avaruusalus 1
+0xc1 Torvi - Avaruusalus 2
+0xc2 Torvi - Avaruusalus 3
+0xc3 Torvi - Avaruusalus 4
+0xc4 Taloudellinen ajoneuvoeditori - Muokkaus
+0xc5 Taloudellinen ajoneuvoeditori - Maalaus
+0xc6 Sotilaallinen ajoneuvoeditori - Muokkaus
+0xc7 Sotilaallinen ajoneuvoeditori - Maalaus
+0xc8 Uskonnollinen ajoneuvoeditori - Muokkaus
+0xc9 Uskonnollinen ajoneuvoeditori - Maalaus
+0xca Avaruussota - Kumistin 1
+0xcb Rakennuseditori - Muokkaus
+0xcc Rakennuseditori - Maalaus
+0xcd Harmoniahymni
+0xce Kohtaussuhahdus
+0xcf Ovikello
+0xd0 Staattinen melu
+0xd1 Bakteerivaihe 1
+0xd2 Bakteerivaihe 2
+0xd3 Bakteerivaihe 3
+0xd4 Kana
+0xd5 Lehmä
+0xd6 Sydämenlyönti
+0xd7 Ilmahälytys
